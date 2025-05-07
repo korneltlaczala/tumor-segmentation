@@ -1,8 +1,8 @@
 import os
 import shutil
 
-original_folder = "archive"
-target_folder = "input"
+original_folder = "../project_data/BraTS2021_Training_Data"
+target_folder = "../data"
 
 
 def extract_files(ext, original_folder, target_folder):
@@ -40,5 +40,5 @@ if __name__ == "__main__":
     }
 
     # extract_files(".nii.gz", original_folder, target_folder)
-    # remove_files("seg.nii.gz", "input2")
-    rename_files("input2", mapping)
+    remove_files("seg.nii.gz", target_folder)
+    # rename_files("input2", mapping)
