@@ -3,11 +3,6 @@ import shutil
 import subprocess
 from tqdm import tqdm
 
-import os
-import shutil
-import subprocess
-from tqdm import tqdm
-
 all_inputs_dir = "/home/wojcikbart/wb/tumor-segmentation/brats_data/BraTSafrica/all_inputs"
 input_dir = "/home/wojcikbart/wb/tumor-segmentation/brats_data/BraTSafrica/input"
 output_dir = "/home/wojcikbart/wb/tumor-segmentation/brats_data/BraTSafrica/output"
