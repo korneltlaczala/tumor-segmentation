@@ -1,1 +1,4 @@
 # Tumor-segmentation
+
+## Team information
+- 
