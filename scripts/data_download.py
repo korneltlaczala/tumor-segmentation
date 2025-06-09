@@ -9,7 +9,7 @@ download_dir = r"brats_data"
 os.makedirs(download_dir, exist_ok=True)
 
 # Download a file by Synapse ID, specifying the download location
-entity_id = "syn64908826"  # ID of the file (not a folder)
+entity_id = "syn60086071"  # ID of the file (not a folder)
 # Available ids
 # "syn64908826" - BraTS2024Pre
 # "syn60086071" - BraTS2024Post
