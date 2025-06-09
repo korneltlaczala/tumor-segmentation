@@ -3,9 +3,15 @@ import shutil
 import subprocess
 from tqdm import tqdm
 
-all_inputs_dir = "/home/wojcikbart/wb/tumor-segmentation/brats_data/BraTSafrica/all_inputs"
-input_dir = "/home/wojcikbart/wb/tumor-segmentation/brats_data/BraTSafrica/input"
-output_dir = "/home/wojcikbart/wb/tumor-segmentation/brats_data/BraTSafrica/output"
+# ============ Bartek paths ============
+# all_inputs_dir = "/home/wojcikbart/wb/tumor-segmentation/brats_data/BraTSafrica/all_inputs"
+# input_dir = "/home/wojcikbart/wb/tumor-segmentation/brats_data/BraTSafrica/input"
+# output_dir = "/home/wojcikbart/wb/tumor-segmentation/brats_data/BraTSafrica/output"
+
+# =========== Kornel paths ============
+all_inputs_dir = "brats_data/BraTSafrica/all_inputs"
+input_dir = "/home/kornel/github/wb2/tumor-segmentation/brats_data/BraTSafrica/input"
+output_dir = "/home/kornel/github/wb2/tumor-segmentation/brats_data/BraTSafrica/output"
 
 
 ids = []
