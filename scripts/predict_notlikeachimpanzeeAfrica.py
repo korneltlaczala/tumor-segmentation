@@ -8,9 +8,10 @@ import shutil
 import subprocess
 from tqdm import tqdm
 
-all_inputs_dir = r"C:\Users\barte\Desktop\studia\SEM6\wb\project\tumor-segmentation\brats_data\BraTSafrica"
-input_dir = r"C:\Users\barte\Desktop\studia\SEM6\wb\project\tumor-segmentation\brats_data\BraTSafrica\input"
-output_dir = r"C:\Users\barte\Desktop\studia\SEM6\wb\project\tumor-segmentation\brats_data\BraTSafrica\output"
+all_inputs_dir = "/home/wojcikbart/wb/tumor-segmentation/brats_data/BraTSafrica/all_inputs"
+input_dir = "/home/wojcikbart/wb/tumor-segmentation/brats_data/BraTSafrica/input"
+output_dir = "/home/wojcikbart/wb/tumor-segmentation/brats_data/BraTSafrica/output"
+
 
 ids = []
 for file in os.listdir(all_inputs_dir):
@@ -34,13 +35,11 @@ for id in iterator:
     
     # Run Docker inference
     subprocess.run([
-        "docker", "run", "-it", "--rm", "--gpus", "device=0",
-        "--name", "nnunet",
-        "-v", f"{input_dir}:/input",
-        "-v", f"{output_dir}:/output",
-        "rixez/brats21nnunet"
-    ])
-    clear_dir(input_dir)
+    "docker", "run", "--rm", "--gpus", "all",
+    "-v", f"{input_dir}:/input",
+    "-v", f"{output_dir}:/output",
+    "rixez/brats21nnunet"
+])
 
 ids = []
 for file in os.listdir(all_inputs_dir):
