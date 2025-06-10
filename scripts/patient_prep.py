@@ -34,4 +34,4 @@ def patient_prep(file_path):
 if __name__ == "__main__":
     file_path = "brats_data/BraTS-PTG metadata.xlsx"
     # select_ids_by_glioma_type(file_path)
-    patient_prep(file_path)
+    # patient_prep(file_path)
