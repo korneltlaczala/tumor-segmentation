@@ -1,0 +1,38 @@
+[
+    {
+        "dataset_name": "BraTS2021",
+        "labels": {
+            "background": 0,
+            "tumor core": 1,
+            "edema": 2,
+            "enhancing tumor": 4
+        }
+    },
+    {
+        "dataset_name": "BraTS2024-Pre",
+        "labels": {
+            "background": 0,
+            "tumor core": 1,
+            "edema": 2,
+            "enhancing tumor": 4
+        }
+    },
+    {
+        "dataset_name": "BraTS2024-Post",
+        "labels": {
+            "background": 0,
+            "tumor core": 1,
+            "edema": 2,
+            "enhancing tumor": 4
+        }
+    },
+    {
+        "dataset_name": "BraTSafrica",
+        "labels": {
+            "background": 0,
+            "tumor core": 1,
+            "edema": 2,
+            "enhancing tumor": 4
+        }
+    }
+]

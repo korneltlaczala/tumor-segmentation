@@ -9,9 +9,9 @@ from tqdm import tqdm
 # output_dir = "/home/wojcikbart/wb/tumor-segmentation/brats_data/BraTSafrica/output"
 
 # =========== Kornel paths ============
-all_inputs_dir = "brats_data/BraTSafrica/all_inputs"
-input_dir = "/home/kornel/github/wb2/tumor-segmentation/brats_data/BraTSafrica/input"
-output_dir = "/home/kornel/github/wb2/tumor-segmentation/brats_data/BraTSafrica/output"
+all_inputs_dir = "brats_data/BraTS2021/all_inputs"
+input_dir = "/home/kornel/github/wb2/tumor-segmentation/brats_data/BraTS2021/input"
+output_dir = "/home/kornel/github/wb2/tumor-segmentation/brats_data/BraTS2021/output"
 
 
 ids = []
