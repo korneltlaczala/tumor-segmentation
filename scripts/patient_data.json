@@ -1,0 +1,6546 @@
+[
+    {
+        "patient_id":"BraTS-GLI-00005",
+        "BraTS Subject ID":"BraTS-GLI-00005-100",
+        "id_number":"00005",
+        "Patient's Age":50.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Oligodendroglioma"
+    },
+    {
+        "patient_id":"BraTS-GLI-00006",
+        "BraTS Subject ID":"BraTS-GLI-00006-100",
+        "id_number":"00006",
+        "Patient's Age":39.0,
+        "Patient's Sex":"F",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-00008",
+        "BraTS Subject ID":"BraTS-GLI-00008-100",
+        "id_number":"00008",
+        "Patient's Age":62.0,
+        "Patient's Sex":"F",
+        "Glioma type ":"Glioma NOS"
+    },
+    {
+        "patient_id":"BraTS-GLI-00009",
+        "BraTS Subject ID":"BraTS-GLI-00009-100",
+        "id_number":"00009",
+        "Patient's Age":54.0,
+        "Patient's Sex":"F",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-00020",
+        "BraTS Subject ID":"BraTS-GLI-00020-100",
+        "id_number":"00020",
+        "Patient's Age":81.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-00027",
+        "BraTS Subject ID":"BraTS-GLI-00027-100",
+        "id_number":"00027",
+        "Patient's Age":52.0,
+        "Patient's Sex":"F",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-00033",
+        "BraTS Subject ID":"BraTS-GLI-00033-100",
+        "id_number":"00033",
+        "Patient's Age":31.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Astrocytoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-00046",
+        "BraTS Subject ID":"BraTS-GLI-00046-100",
+        "id_number":"00046",
+        "Patient's Age":63.0,
+        "Patient's Sex":"F",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-00060",
+        "BraTS Subject ID":"BraTS-GLI-00060-100",
+        "id_number":"00060",
+        "Patient's Age":66.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-00063",
+        "BraTS Subject ID":"BraTS-GLI-00063-100",
+        "id_number":"00063",
+        "Patient's Age":52.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-00078",
+        "BraTS Subject ID":"BraTS-GLI-00078-100",
+        "id_number":"00078",
+        "Patient's Age":77.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-00080",
+        "BraTS Subject ID":"BraTS-GLI-00080-100",
+        "id_number":"00080",
+        "Patient's Age":58.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-00085",
+        "BraTS Subject ID":"BraTS-GLI-00085-100",
+        "id_number":"00085",
+        "Patient's Age":44.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Astrocytoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-00096",
+        "BraTS Subject ID":"BraTS-GLI-00096-100",
+        "id_number":"00096",
+        "Patient's Age":57.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-00463",
+        "BraTS Subject ID":"BraTS-GLI-00463-100",
+        "id_number":"00463",
+        "Patient's Age":57.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-00469",
+        "BraTS Subject ID":"BraTS-GLI-00469-100",
+        "id_number":"00469",
+        "Patient's Age":51.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-00472",
+        "BraTS Subject ID":"BraTS-GLI-00472-100",
+        "id_number":"00472",
+        "Patient's Age":75.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-00483",
+        "BraTS Subject ID":"BraTS-GLI-00483-100",
+        "id_number":"00483",
+        "Patient's Age":66.0,
+        "Patient's Sex":"F",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-00485",
+        "BraTS Subject ID":"BraTS-GLI-00485-100",
+        "id_number":"00485",
+        "Patient's Age":53.0,
+        "Patient's Sex":"F",
+        "Glioma type ":"Glioma NOS"
+    },
+    {
+        "patient_id":"BraTS-GLI-00491",
+        "BraTS Subject ID":"BraTS-GLI-00491-100",
+        "id_number":"00491",
+        "Patient's Age":54.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-00498",
+        "BraTS Subject ID":"BraTS-GLI-00498-100",
+        "id_number":"00498",
+        "Patient's Age":57.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-00505",
+        "BraTS Subject ID":"BraTS-GLI-00505-100",
+        "id_number":"00505",
+        "Patient's Age":61.0,
+        "Patient's Sex":"F",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-00506",
+        "BraTS Subject ID":"BraTS-GLI-00506-100",
+        "id_number":"00506",
+        "Patient's Age":51.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-00507",
+        "BraTS Subject ID":"BraTS-GLI-00507-100",
+        "id_number":"00507",
+        "Patient's Age":66.0,
+        "Patient's Sex":"F",
+        "Glioma type ":"Glioma NOS"
+    },
+    {
+        "patient_id":"BraTS-GLI-00511",
+        "BraTS Subject ID":"BraTS-GLI-00511-100",
+        "id_number":"00511",
+        "Patient's Age":61.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Glioma NOS"
+    },
+    {
+        "patient_id":"BraTS-GLI-00512",
+        "BraTS Subject ID":"BraTS-GLI-00512-100",
+        "id_number":"00512",
+        "Patient's Age":78.0,
+        "Patient's Sex":"F",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-00517",
+        "BraTS Subject ID":"BraTS-GLI-00517-100",
+        "id_number":"00517",
+        "Patient's Age":49.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-00518",
+        "BraTS Subject ID":"BraTS-GLI-00518-100",
+        "id_number":"00518",
+        "Patient's Age":49.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-00528",
+        "BraTS Subject ID":"BraTS-GLI-00528-100",
+        "id_number":"00528",
+        "Patient's Age":27.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Glioma NOS"
+    },
+    {
+        "patient_id":"BraTS-GLI-00529",
+        "BraTS Subject ID":"BraTS-GLI-00529-100",
+        "id_number":"00529",
+        "Patient's Age":61.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-00533",
+        "BraTS Subject ID":"BraTS-GLI-00533-100",
+        "id_number":"00533",
+        "Patient's Age":50.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Glioma NOS"
+    },
+    {
+        "patient_id":"BraTS-GLI-00543",
+        "BraTS Subject ID":"BraTS-GLI-00543-100",
+        "id_number":"00543",
+        "Patient's Age":34.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Glioma NOS"
+    },
+    {
+        "patient_id":"BraTS-GLI-00547",
+        "BraTS Subject ID":"BraTS-GLI-00547-100",
+        "id_number":"00547",
+        "Patient's Age":77.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-00548",
+        "BraTS Subject ID":"BraTS-GLI-00548-100",
+        "id_number":"00548",
+        "Patient's Age":54.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Other"
+    },
+    {
+        "patient_id":"BraTS-GLI-00549",
+        "BraTS Subject ID":"BraTS-GLI-00549-100",
+        "id_number":"00549",
+        "Patient's Age":37.0,
+        "Patient's Sex":"F",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-00553",
+        "BraTS Subject ID":"BraTS-GLI-00553-100",
+        "id_number":"00553",
+        "Patient's Age":61.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-00556",
+        "BraTS Subject ID":"BraTS-GLI-00556-100",
+        "id_number":"00556",
+        "Patient's Age":80.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-00557",
+        "BraTS Subject ID":"BraTS-GLI-00557-100",
+        "id_number":"00557",
+        "Patient's Age":60.0,
+        "Patient's Sex":"F",
+        "Glioma type ":"Glioma NOS"
+    },
+    {
+        "patient_id":"BraTS-GLI-02060",
+        "BraTS Subject ID":"BraTS-GLI-02060-100",
+        "id_number":"02060",
+        "Patient's Age":72.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02061",
+        "BraTS Subject ID":"BraTS-GLI-02061-100",
+        "id_number":"02061",
+        "Patient's Age":45.0,
+        "Patient's Sex":"F",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02062",
+        "BraTS Subject ID":"BraTS-GLI-02062-100",
+        "id_number":"02062",
+        "Patient's Age":46.0,
+        "Patient's Sex":"F",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02063",
+        "BraTS Subject ID":"BraTS-GLI-02063-100",
+        "id_number":"02063",
+        "Patient's Age":56.0,
+        "Patient's Sex":"F",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02064",
+        "BraTS Subject ID":"BraTS-GLI-02064-100",
+        "id_number":"02064",
+        "Patient's Age":75.0,
+        "Patient's Sex":"F",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02066",
+        "BraTS Subject ID":"BraTS-GLI-02066-100",
+        "id_number":"02066",
+        "Patient's Age":57.0,
+        "Patient's Sex":"F",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02068",
+        "BraTS Subject ID":"BraTS-GLI-02068-100",
+        "id_number":"02068",
+        "Patient's Age":47.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02069",
+        "BraTS Subject ID":"BraTS-GLI-02069-100",
+        "id_number":"02069",
+        "Patient's Age":45.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02070",
+        "BraTS Subject ID":"BraTS-GLI-02070-100",
+        "id_number":"02070",
+        "Patient's Age":60.0,
+        "Patient's Sex":"F",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02071",
+        "BraTS Subject ID":"BraTS-GLI-02071-100",
+        "id_number":"02071",
+        "Patient's Age":66.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02072",
+        "BraTS Subject ID":"BraTS-GLI-02072-100",
+        "id_number":"02072",
+        "Patient's Age":44.0,
+        "Patient's Sex":"F",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02073",
+        "BraTS Subject ID":"BraTS-GLI-02073-100",
+        "id_number":"02073",
+        "Patient's Age":36.0,
+        "Patient's Sex":"F",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02074",
+        "BraTS Subject ID":"BraTS-GLI-02074-100",
+        "id_number":"02074",
+        "Patient's Age":71.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02076",
+        "BraTS Subject ID":"BraTS-GLI-02076-100",
+        "id_number":"02076",
+        "Patient's Age":72.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02077",
+        "BraTS Subject ID":"BraTS-GLI-02077-100",
+        "id_number":"02077",
+        "Patient's Age":62.0,
+        "Patient's Sex":"F",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02078",
+        "BraTS Subject ID":"BraTS-GLI-02078-100",
+        "id_number":"02078",
+        "Patient's Age":49.0,
+        "Patient's Sex":"F",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02079",
+        "BraTS Subject ID":"BraTS-GLI-02079-100",
+        "id_number":"02079",
+        "Patient's Age":29.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02081",
+        "BraTS Subject ID":"BraTS-GLI-02081-100",
+        "id_number":"02081",
+        "Patient's Age":33.0,
+        "Patient's Sex":"F",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02082",
+        "BraTS Subject ID":"BraTS-GLI-02082-100",
+        "id_number":"02082",
+        "Patient's Age":74.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02083",
+        "BraTS Subject ID":"BraTS-GLI-02083-100",
+        "id_number":"02083",
+        "Patient's Age":51.0,
+        "Patient's Sex":"F",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02084",
+        "BraTS Subject ID":"BraTS-GLI-02084-100",
+        "id_number":"02084",
+        "Patient's Age":63.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02085",
+        "BraTS Subject ID":"BraTS-GLI-02085-100",
+        "id_number":"02085",
+        "Patient's Age":72.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02086",
+        "BraTS Subject ID":"BraTS-GLI-02086-100",
+        "id_number":"02086",
+        "Patient's Age":64.0,
+        "Patient's Sex":"F",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02087",
+        "BraTS Subject ID":"BraTS-GLI-02087-100",
+        "id_number":"02087",
+        "Patient's Age":63.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02088",
+        "BraTS Subject ID":"BraTS-GLI-02088-100",
+        "id_number":"02088",
+        "Patient's Age":63.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02089",
+        "BraTS Subject ID":"BraTS-GLI-02089-100",
+        "id_number":"02089",
+        "Patient's Age":58.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02091",
+        "BraTS Subject ID":"BraTS-GLI-02091-100",
+        "id_number":"02091",
+        "Patient's Age":61.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02092",
+        "BraTS Subject ID":"BraTS-GLI-02092-100",
+        "id_number":"02092",
+        "Patient's Age":49.0,
+        "Patient's Sex":"F",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02093",
+        "BraTS Subject ID":"BraTS-GLI-02093-100",
+        "id_number":"02093",
+        "Patient's Age":33.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02095",
+        "BraTS Subject ID":"BraTS-GLI-02095-100",
+        "id_number":"02095",
+        "Patient's Age":64.0,
+        "Patient's Sex":"F",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02096",
+        "BraTS Subject ID":"BraTS-GLI-02096-100",
+        "id_number":"02096",
+        "Patient's Age":36.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02097",
+        "BraTS Subject ID":"BraTS-GLI-02097-100",
+        "id_number":"02097",
+        "Patient's Age":74.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02099",
+        "BraTS Subject ID":"BraTS-GLI-02099-100",
+        "id_number":"02099",
+        "Patient's Age":68.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02100",
+        "BraTS Subject ID":"BraTS-GLI-02100-100",
+        "id_number":"02100",
+        "Patient's Age":35.0,
+        "Patient's Sex":"F",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02101",
+        "BraTS Subject ID":"BraTS-GLI-02101-100",
+        "id_number":"02101",
+        "Patient's Age":70.0,
+        "Patient's Sex":"F",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02102",
+        "BraTS Subject ID":"BraTS-GLI-02102-100",
+        "id_number":"02102",
+        "Patient's Age":63.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02103",
+        "BraTS Subject ID":"BraTS-GLI-02103-100",
+        "id_number":"02103",
+        "Patient's Age":20.0,
+        "Patient's Sex":"F",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02104",
+        "BraTS Subject ID":"BraTS-GLI-02104-100",
+        "id_number":"02104",
+        "Patient's Age":77.0,
+        "Patient's Sex":"F",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02105",
+        "BraTS Subject ID":"BraTS-GLI-02105-100",
+        "id_number":"02105",
+        "Patient's Age":42.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02106",
+        "BraTS Subject ID":"BraTS-GLI-02106-100",
+        "id_number":"02106",
+        "Patient's Age":51.0,
+        "Patient's Sex":"F",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02108",
+        "BraTS Subject ID":"BraTS-GLI-02108-100",
+        "id_number":"02108",
+        "Patient's Age":51.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02109",
+        "BraTS Subject ID":"BraTS-GLI-02109-100",
+        "id_number":"02109",
+        "Patient's Age":42.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02110",
+        "BraTS Subject ID":"BraTS-GLI-02110-100",
+        "id_number":"02110",
+        "Patient's Age":67.0,
+        "Patient's Sex":"F",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02111",
+        "BraTS Subject ID":"BraTS-GLI-02111-100",
+        "id_number":"02111",
+        "Patient's Age":36.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Glioma NOS"
+    },
+    {
+        "patient_id":"BraTS-GLI-02112",
+        "BraTS Subject ID":"BraTS-GLI-02112-100",
+        "id_number":"02112",
+        "Patient's Age":66.0,
+        "Patient's Sex":"F",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02113",
+        "BraTS Subject ID":"BraTS-GLI-02113-100",
+        "id_number":"02113",
+        "Patient's Age":54.0,
+        "Patient's Sex":"F",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02114",
+        "BraTS Subject ID":"BraTS-GLI-02114-100",
+        "id_number":"02114",
+        "Patient's Age":70.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02115",
+        "BraTS Subject ID":"BraTS-GLI-02115-100",
+        "id_number":"02115",
+        "Patient's Age":63.0,
+        "Patient's Sex":"F",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02116",
+        "BraTS Subject ID":"BraTS-GLI-02116-100",
+        "id_number":"02116",
+        "Patient's Age":54.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02118",
+        "BraTS Subject ID":"BraTS-GLI-02118-100",
+        "id_number":"02118",
+        "Patient's Age":63.0,
+        "Patient's Sex":"F",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02119",
+        "BraTS Subject ID":"BraTS-GLI-02119-100",
+        "id_number":"02119",
+        "Patient's Age":67.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02120",
+        "BraTS Subject ID":"BraTS-GLI-02120-100",
+        "id_number":"02120",
+        "Patient's Age":67.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02122",
+        "BraTS Subject ID":"BraTS-GLI-02122-100",
+        "id_number":"02122",
+        "Patient's Age":72.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02123",
+        "BraTS Subject ID":"BraTS-GLI-02123-100",
+        "id_number":"02123",
+        "Patient's Age":58.0,
+        "Patient's Sex":"F",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02124",
+        "BraTS Subject ID":"BraTS-GLI-02124-100",
+        "id_number":"02124",
+        "Patient's Age":58.0,
+        "Patient's Sex":"F",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02125",
+        "BraTS Subject ID":"BraTS-GLI-02125-100",
+        "id_number":"02125",
+        "Patient's Age":65.0,
+        "Patient's Sex":"F",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02126",
+        "BraTS Subject ID":"BraTS-GLI-02126-100",
+        "id_number":"02126",
+        "Patient's Age":62.0,
+        "Patient's Sex":"F",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02127",
+        "BraTS Subject ID":"BraTS-GLI-02127-100",
+        "id_number":"02127",
+        "Patient's Age":35.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02128",
+        "BraTS Subject ID":"BraTS-GLI-02128-100",
+        "id_number":"02128",
+        "Patient's Age":27.0,
+        "Patient's Sex":"F",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02129",
+        "BraTS Subject ID":"BraTS-GLI-02129-100",
+        "id_number":"02129",
+        "Patient's Age":65.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02130",
+        "BraTS Subject ID":"BraTS-GLI-02130-100",
+        "id_number":"02130",
+        "Patient's Age":50.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02131",
+        "BraTS Subject ID":"BraTS-GLI-02131-100",
+        "id_number":"02131",
+        "Patient's Age":38.0,
+        "Patient's Sex":"F",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02132",
+        "BraTS Subject ID":"BraTS-GLI-02132-100",
+        "id_number":"02132",
+        "Patient's Age":47.0,
+        "Patient's Sex":"F",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02133",
+        "BraTS Subject ID":"BraTS-GLI-02133-100",
+        "id_number":"02133",
+        "Patient's Age":47.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02135",
+        "BraTS Subject ID":"BraTS-GLI-02135-100",
+        "id_number":"02135",
+        "Patient's Age":83.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02136",
+        "BraTS Subject ID":"BraTS-GLI-02136-100",
+        "id_number":"02136",
+        "Patient's Age":52.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02137",
+        "BraTS Subject ID":"BraTS-GLI-02137-100",
+        "id_number":"02137",
+        "Patient's Age":71.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02138",
+        "BraTS Subject ID":"BraTS-GLI-02138-100",
+        "id_number":"02138",
+        "Patient's Age":76.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02139",
+        "BraTS Subject ID":"BraTS-GLI-02139-100",
+        "id_number":"02139",
+        "Patient's Age":59.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02141",
+        "BraTS Subject ID":"BraTS-GLI-02141-100",
+        "id_number":"02141",
+        "Patient's Age":67.0,
+        "Patient's Sex":"F",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02143",
+        "BraTS Subject ID":"BraTS-GLI-02143-100",
+        "id_number":"02143",
+        "Patient's Age":67.0,
+        "Patient's Sex":"F",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02144",
+        "BraTS Subject ID":"BraTS-GLI-02144-100",
+        "id_number":"02144",
+        "Patient's Age":18.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02145",
+        "BraTS Subject ID":"BraTS-GLI-02145-100",
+        "id_number":"02145",
+        "Patient's Age":67.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02146",
+        "BraTS Subject ID":"BraTS-GLI-02146-100",
+        "id_number":"02146",
+        "Patient's Age":69.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02147",
+        "BraTS Subject ID":"BraTS-GLI-02147-100",
+        "id_number":"02147",
+        "Patient's Age":61.0,
+        "Patient's Sex":"F",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02148",
+        "BraTS Subject ID":"BraTS-GLI-02148-100",
+        "id_number":"02148",
+        "Patient's Age":61.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02149",
+        "BraTS Subject ID":"BraTS-GLI-02149-100",
+        "id_number":"02149",
+        "Patient's Age":50.0,
+        "Patient's Sex":"F",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02151",
+        "BraTS Subject ID":"BraTS-GLI-02151-100",
+        "id_number":"02151",
+        "Patient's Age":58.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02152",
+        "BraTS Subject ID":"BraTS-GLI-02152-100",
+        "id_number":"02152",
+        "Patient's Age":66.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"glioma NOS"
+    },
+    {
+        "patient_id":"BraTS-GLI-02153",
+        "BraTS Subject ID":"BraTS-GLI-02153-100",
+        "id_number":"02153",
+        "Patient's Age":76.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02154",
+        "BraTS Subject ID":"BraTS-GLI-02154-100",
+        "id_number":"02154",
+        "Patient's Age":69.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02155",
+        "BraTS Subject ID":"BraTS-GLI-02155-100",
+        "id_number":"02155",
+        "Patient's Age":51.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02156",
+        "BraTS Subject ID":"BraTS-GLI-02156-100",
+        "id_number":"02156",
+        "Patient's Age":69.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02157",
+        "BraTS Subject ID":"BraTS-GLI-02157-100",
+        "id_number":"02157",
+        "Patient's Age":38.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02158",
+        "BraTS Subject ID":"BraTS-GLI-02158-100",
+        "id_number":"02158",
+        "Patient's Age":58.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02160",
+        "BraTS Subject ID":"BraTS-GLI-02160-100",
+        "id_number":"02160",
+        "Patient's Age":65.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02162",
+        "BraTS Subject ID":"BraTS-GLI-02162-100",
+        "id_number":"02162",
+        "Patient's Age":70.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02164",
+        "BraTS Subject ID":"BraTS-GLI-02164-100",
+        "id_number":"02164",
+        "Patient's Age":61.0,
+        "Patient's Sex":"F",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02165",
+        "BraTS Subject ID":"BraTS-GLI-02165-100",
+        "id_number":"02165",
+        "Patient's Age":49.0,
+        "Patient's Sex":"F",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02166",
+        "BraTS Subject ID":"BraTS-GLI-02166-100",
+        "id_number":"02166",
+        "Patient's Age":64.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02167",
+        "BraTS Subject ID":"BraTS-GLI-02167-100",
+        "id_number":"02167",
+        "Patient's Age":70.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02169",
+        "BraTS Subject ID":"BraTS-GLI-02169-100",
+        "id_number":"02169",
+        "Patient's Age":62.0,
+        "Patient's Sex":"F",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02170",
+        "BraTS Subject ID":"BraTS-GLI-02170-100",
+        "id_number":"02170",
+        "Patient's Age":40.0,
+        "Patient's Sex":"F",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02171",
+        "BraTS Subject ID":"BraTS-GLI-02171-100",
+        "id_number":"02171",
+        "Patient's Age":67.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02172",
+        "BraTS Subject ID":"BraTS-GLI-02172-100",
+        "id_number":"02172",
+        "Patient's Age":54.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02174",
+        "BraTS Subject ID":"BraTS-GLI-02174-100",
+        "id_number":"02174",
+        "Patient's Age":53.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02175",
+        "BraTS Subject ID":"BraTS-GLI-02175-100",
+        "id_number":"02175",
+        "Patient's Age":64.0,
+        "Patient's Sex":"F",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02176",
+        "BraTS Subject ID":"BraTS-GLI-02176-100",
+        "id_number":"02176",
+        "Patient's Age":42.0,
+        "Patient's Sex":"F",
+        "Glioma type ":"Astrocytoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02177",
+        "BraTS Subject ID":"BraTS-GLI-02177-100",
+        "id_number":"02177",
+        "Patient's Age":74.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02178",
+        "BraTS Subject ID":"BraTS-GLI-02178-100",
+        "id_number":"02178",
+        "Patient's Age":64.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02180",
+        "BraTS Subject ID":"BraTS-GLI-02180-100",
+        "id_number":"02180",
+        "Patient's Age":49.0,
+        "Patient's Sex":"F",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02181",
+        "BraTS Subject ID":"BraTS-GLI-02181-100",
+        "id_number":"02181",
+        "Patient's Age":60.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02184",
+        "BraTS Subject ID":"BraTS-GLI-02184-100",
+        "id_number":"02184",
+        "Patient's Age":71.0,
+        "Patient's Sex":"F",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02185",
+        "BraTS Subject ID":"BraTS-GLI-02185-100",
+        "id_number":"02185",
+        "Patient's Age":68.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02186",
+        "BraTS Subject ID":"BraTS-GLI-02186-100",
+        "id_number":"02186",
+        "Patient's Age":46.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02187",
+        "BraTS Subject ID":"BraTS-GLI-02187-100",
+        "id_number":"02187",
+        "Patient's Age":50.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02188",
+        "BraTS Subject ID":"BraTS-GLI-02188-100",
+        "id_number":"02188",
+        "Patient's Age":42.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Astrocytoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02189",
+        "BraTS Subject ID":"BraTS-GLI-02189-100",
+        "id_number":"02189",
+        "Patient's Age":75.0,
+        "Patient's Sex":"F",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02190",
+        "BraTS Subject ID":"BraTS-GLI-02190-100",
+        "id_number":"02190",
+        "Patient's Age":50.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02191",
+        "BraTS Subject ID":"BraTS-GLI-02191-100",
+        "id_number":"02191",
+        "Patient's Age":57.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02192",
+        "BraTS Subject ID":"BraTS-GLI-02192-100",
+        "id_number":"02192",
+        "Patient's Age":70.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02193",
+        "BraTS Subject ID":"BraTS-GLI-02193-100",
+        "id_number":"02193",
+        "Patient's Age":60.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02194",
+        "BraTS Subject ID":"BraTS-GLI-02194-100",
+        "id_number":"02194",
+        "Patient's Age":56.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Other"
+    },
+    {
+        "patient_id":"BraTS-GLI-02195",
+        "BraTS Subject ID":"BraTS-GLI-02195-100",
+        "id_number":"02195",
+        "Patient's Age":68.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02196",
+        "BraTS Subject ID":"BraTS-GLI-02196-100",
+        "id_number":"02196",
+        "Patient's Age":27.0,
+        "Patient's Sex":"F",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02197",
+        "BraTS Subject ID":"BraTS-GLI-02197-100",
+        "id_number":"02197",
+        "Patient's Age":67.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02198",
+        "BraTS Subject ID":"BraTS-GLI-02198-100",
+        "id_number":"02198",
+        "Patient's Age":70.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02199",
+        "BraTS Subject ID":"BraTS-GLI-02199-100",
+        "id_number":"02199",
+        "Patient's Age":51.0,
+        "Patient's Sex":"F",
+        "Glioma type ":"Oligodendroglioma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02204",
+        "BraTS Subject ID":"BraTS-GLI-02204-100",
+        "id_number":"02204",
+        "Patient's Age":47.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Astrocytoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02205",
+        "BraTS Subject ID":"BraTS-GLI-02205-100",
+        "id_number":"02205",
+        "Patient's Age":49.0,
+        "Patient's Sex":"F",
+        "Glioma type ":"Oligodendroglioma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02206",
+        "BraTS Subject ID":"BraTS-GLI-02206-100",
+        "id_number":"02206",
+        "Patient's Age":36.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Oligodendroglioma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02207",
+        "BraTS Subject ID":"BraTS-GLI-02207-100",
+        "id_number":"02207",
+        "Patient's Age":32.0,
+        "Patient's Sex":"F",
+        "Glioma type ":"Oligodendroglioma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02208",
+        "BraTS Subject ID":"BraTS-GLI-02208-100",
+        "id_number":"02208",
+        "Patient's Age":16.0,
+        "Patient's Sex":"F",
+        "Glioma type ":"Oligodendroglioma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02209",
+        "BraTS Subject ID":"BraTS-GLI-02209-100",
+        "id_number":"02209",
+        "Patient's Age":33.0,
+        "Patient's Sex":"F",
+        "Glioma type ":"Oligodendroglioma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02210",
+        "BraTS Subject ID":"BraTS-GLI-02210-100",
+        "id_number":"02210",
+        "Patient's Age":28.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Oligodendroglioma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02211",
+        "BraTS Subject ID":"BraTS-GLI-02211-100",
+        "id_number":"02211",
+        "Patient's Age":37.0,
+        "Patient's Sex":"F",
+        "Glioma type ":"Oligodendroglioma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02212",
+        "BraTS Subject ID":"BraTS-GLI-02212-100",
+        "id_number":"02212",
+        "Patient's Age":68.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Oligodendroglioma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02213",
+        "BraTS Subject ID":"BraTS-GLI-02213-100",
+        "id_number":"02213",
+        "Patient's Age":60.0,
+        "Patient's Sex":"F",
+        "Glioma type ":"Oligodendroglioma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02214",
+        "BraTS Subject ID":"BraTS-GLI-02214-100",
+        "id_number":"02214",
+        "Patient's Age":49.0,
+        "Patient's Sex":"F",
+        "Glioma type ":"Oligodendroglioma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02215",
+        "BraTS Subject ID":"BraTS-GLI-02215-100",
+        "id_number":"02215",
+        "Patient's Age":55.0,
+        "Patient's Sex":"F",
+        "Glioma type ":"Oligodendroglioma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02216",
+        "BraTS Subject ID":"BraTS-GLI-02216-100",
+        "id_number":"02216",
+        "Patient's Age":37.0,
+        "Patient's Sex":"F",
+        "Glioma type ":"Astrocytoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02217",
+        "BraTS Subject ID":"BraTS-GLI-02217-100",
+        "id_number":"02217",
+        "Patient's Age":36.0,
+        "Patient's Sex":"F",
+        "Glioma type ":"Oligodendroglioma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02218",
+        "BraTS Subject ID":"BraTS-GLI-02218-100",
+        "id_number":"02218",
+        "Patient's Age":29.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Astrocytoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02219",
+        "BraTS Subject ID":"BraTS-GLI-02219-100",
+        "id_number":"02219",
+        "Patient's Age":53.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Oligodendroglioma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02220",
+        "BraTS Subject ID":"BraTS-GLI-02220-100",
+        "id_number":"02220",
+        "Patient's Age":41.0,
+        "Patient's Sex":"F",
+        "Glioma type ":"Astrocytoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02221",
+        "BraTS Subject ID":"BraTS-GLI-02221-100",
+        "id_number":"02221",
+        "Patient's Age":47.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Astrocytoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02222",
+        "BraTS Subject ID":"BraTS-GLI-02222-100",
+        "id_number":"02222",
+        "Patient's Age":33.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Astrocytoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02223",
+        "BraTS Subject ID":"BraTS-GLI-02223-100",
+        "id_number":"02223",
+        "Patient's Age":47.0,
+        "Patient's Sex":"F",
+        "Glioma type ":"Astrocytoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02224",
+        "BraTS Subject ID":"BraTS-GLI-02224-100",
+        "id_number":"02224",
+        "Patient's Age":23.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Astrocytoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02225",
+        "BraTS Subject ID":"BraTS-GLI-02225-100",
+        "id_number":"02225",
+        "Patient's Age":41.0,
+        "Patient's Sex":"F",
+        "Glioma type ":"Oligodendroglioma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02226",
+        "BraTS Subject ID":"BraTS-GLI-02226-100",
+        "id_number":"02226",
+        "Patient's Age":35.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Astrocytoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02227",
+        "BraTS Subject ID":"BraTS-GLI-02227-100",
+        "id_number":"02227",
+        "Patient's Age":55.0,
+        "Patient's Sex":"F",
+        "Glioma type ":"Oligodendroglioma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02228",
+        "BraTS Subject ID":"BraTS-GLI-02228-100",
+        "id_number":"02228",
+        "Patient's Age":68.0,
+        "Patient's Sex":"F",
+        "Glioma type ":"Oligodendroglioma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02229",
+        "BraTS Subject ID":"BraTS-GLI-02229-100",
+        "id_number":"02229",
+        "Patient's Age":64.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Oligodendroglioma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02230",
+        "BraTS Subject ID":"BraTS-GLI-02230-100",
+        "id_number":"02230",
+        "Patient's Age":36.0,
+        "Patient's Sex":"F",
+        "Glioma type ":"Oligodendroglioma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02236",
+        "BraTS Subject ID":"BraTS-GLI-02236-100",
+        "id_number":"02236",
+        "Patient's Age":53.0,
+        "Patient's Sex":"F",
+        "Glioma type ":"Oligodendroglioma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02237",
+        "BraTS Subject ID":"BraTS-GLI-02237-100",
+        "id_number":"02237",
+        "Patient's Age":32.0,
+        "Patient's Sex":"F",
+        "Glioma type ":"Oligodendroglioma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02238",
+        "BraTS Subject ID":"BraTS-GLI-02238-100",
+        "id_number":"02238",
+        "Patient's Age":36.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Oligodendroglioma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02239",
+        "BraTS Subject ID":"BraTS-GLI-02239-100",
+        "id_number":"02239",
+        "Patient's Age":36.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Astrocytoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02240",
+        "BraTS Subject ID":"BraTS-GLI-02240-100",
+        "id_number":"02240",
+        "Patient's Age":51.0,
+        "Patient's Sex":"F",
+        "Glioma type ":"Oligodendroglioma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02241",
+        "BraTS Subject ID":"BraTS-GLI-02241-100",
+        "id_number":"02241",
+        "Patient's Age":50.0,
+        "Patient's Sex":"F",
+        "Glioma type ":"Oligodendroglioma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02242",
+        "BraTS Subject ID":"BraTS-GLI-02242-100",
+        "id_number":"02242",
+        "Patient's Age":28.0,
+        "Patient's Sex":"F",
+        "Glioma type ":"Astrocytoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02243",
+        "BraTS Subject ID":"BraTS-GLI-02243-100",
+        "id_number":"02243",
+        "Patient's Age":37.0,
+        "Patient's Sex":"F",
+        "Glioma type ":"Astrocytoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02244",
+        "BraTS Subject ID":"BraTS-GLI-02244-100",
+        "id_number":"02244",
+        "Patient's Age":28.0,
+        "Patient's Sex":"F",
+        "Glioma type ":"Oligodendroglioma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02245",
+        "BraTS Subject ID":"BraTS-GLI-02245-100",
+        "id_number":"02245",
+        "Patient's Age":28.0,
+        "Patient's Sex":"F",
+        "Glioma type ":"Astrocytoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02246",
+        "BraTS Subject ID":"BraTS-GLI-02246-100",
+        "id_number":"02246",
+        "Patient's Age":61.0,
+        "Patient's Sex":"F",
+        "Glioma type ":"Oligodendroglioma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02247",
+        "BraTS Subject ID":"BraTS-GLI-02247-100",
+        "id_number":"02247",
+        "Patient's Age":21.0,
+        "Patient's Sex":"F",
+        "Glioma type ":"Astrocytoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02248",
+        "BraTS Subject ID":"BraTS-GLI-02248-100",
+        "id_number":"02248",
+        "Patient's Age":44.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Astrocytoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02249",
+        "BraTS Subject ID":"BraTS-GLI-02249-100",
+        "id_number":"02249",
+        "Patient's Age":51.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Oligodendroglioma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02251",
+        "BraTS Subject ID":"BraTS-GLI-02251-100",
+        "id_number":"02251",
+        "Patient's Age":59.0,
+        "Patient's Sex":"F",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02254",
+        "BraTS Subject ID":"BraTS-GLI-02254-100",
+        "id_number":"02254",
+        "Patient's Age":55.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02255",
+        "BraTS Subject ID":"BraTS-GLI-02255-100",
+        "id_number":"02255",
+        "Patient's Age":54.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02256",
+        "BraTS Subject ID":"BraTS-GLI-02256-100",
+        "id_number":"02256",
+        "Patient's Age":61.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02257",
+        "BraTS Subject ID":"BraTS-GLI-02257-100",
+        "id_number":"02257",
+        "Patient's Age":60.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02258",
+        "BraTS Subject ID":"BraTS-GLI-02258-100",
+        "id_number":"02258",
+        "Patient's Age":61.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02259",
+        "BraTS Subject ID":"BraTS-GLI-02259-100",
+        "id_number":"02259",
+        "Patient's Age":73.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02260",
+        "BraTS Subject ID":"BraTS-GLI-02260-100",
+        "id_number":"02260",
+        "Patient's Age":54.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02261",
+        "BraTS Subject ID":"BraTS-GLI-02261-100",
+        "id_number":"02261",
+        "Patient's Age":55.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02265",
+        "BraTS Subject ID":"BraTS-GLI-02265-100",
+        "id_number":"02265",
+        "Patient's Age":29.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02267",
+        "BraTS Subject ID":"BraTS-GLI-02267-100",
+        "id_number":"02267",
+        "Patient's Age":27.0,
+        "Patient's Sex":"F",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02268",
+        "BraTS Subject ID":"BraTS-GLI-02268-100",
+        "id_number":"02268",
+        "Patient's Age":26.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02269",
+        "BraTS Subject ID":"BraTS-GLI-02269-100",
+        "id_number":"02269",
+        "Patient's Age":54.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02270",
+        "BraTS Subject ID":"BraTS-GLI-02270-100",
+        "id_number":"02270",
+        "Patient's Age":53.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02271",
+        "BraTS Subject ID":"BraTS-GLI-02271-100",
+        "id_number":"02271",
+        "Patient's Age":60.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02272",
+        "BraTS Subject ID":"BraTS-GLI-02272-100",
+        "id_number":"02272",
+        "Patient's Age":70.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02273",
+        "BraTS Subject ID":"BraTS-GLI-02273-100",
+        "id_number":"02273",
+        "Patient's Age":35.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02274",
+        "BraTS Subject ID":"BraTS-GLI-02274-100",
+        "id_number":"02274",
+        "Patient's Age":66.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02275",
+        "BraTS Subject ID":"BraTS-GLI-02275-100",
+        "id_number":"02275",
+        "Patient's Age":47.0,
+        "Patient's Sex":"F",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02276",
+        "BraTS Subject ID":"BraTS-GLI-02276-100",
+        "id_number":"02276",
+        "Patient's Age":50.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02278",
+        "BraTS Subject ID":"BraTS-GLI-02278-100",
+        "id_number":"02278",
+        "Patient's Age":74.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02280",
+        "BraTS Subject ID":"BraTS-GLI-02280-100",
+        "id_number":"02280",
+        "Patient's Age":65.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02281",
+        "BraTS Subject ID":"BraTS-GLI-02281-100",
+        "id_number":"02281",
+        "Patient's Age":73.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02283",
+        "BraTS Subject ID":"BraTS-GLI-02283-100",
+        "id_number":"02283",
+        "Patient's Age":76.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02284",
+        "BraTS Subject ID":"BraTS-GLI-02284-100",
+        "id_number":"02284",
+        "Patient's Age":63.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02285",
+        "BraTS Subject ID":"BraTS-GLI-02285-100",
+        "id_number":"02285",
+        "Patient's Age":72.0,
+        "Patient's Sex":"F",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02287",
+        "BraTS Subject ID":"BraTS-GLI-02287-100",
+        "id_number":"02287",
+        "Patient's Age":59.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02288",
+        "BraTS Subject ID":"BraTS-GLI-02288-100",
+        "id_number":"02288",
+        "Patient's Age":36.0,
+        "Patient's Sex":"F",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02289",
+        "BraTS Subject ID":"BraTS-GLI-02289-100",
+        "id_number":"02289",
+        "Patient's Age":66.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02290",
+        "BraTS Subject ID":"BraTS-GLI-02290-100",
+        "id_number":"02290",
+        "Patient's Age":44.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02292",
+        "BraTS Subject ID":"BraTS-GLI-02292-100",
+        "id_number":"02292",
+        "Patient's Age":64.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02297",
+        "BraTS Subject ID":"BraTS-GLI-02297-100",
+        "id_number":"02297",
+        "Patient's Age":54.0,
+        "Patient's Sex":"F",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02298",
+        "BraTS Subject ID":"BraTS-GLI-02298-100",
+        "id_number":"02298",
+        "Patient's Age":62.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02300",
+        "BraTS Subject ID":"BraTS-GLI-02300-100",
+        "id_number":"02300",
+        "Patient's Age":58.0,
+        "Patient's Sex":"F",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02302",
+        "BraTS Subject ID":"BraTS-GLI-02302-100",
+        "id_number":"02302",
+        "Patient's Age":53.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02303",
+        "BraTS Subject ID":"BraTS-GLI-02303-100",
+        "id_number":"02303",
+        "Patient's Age":53.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02304",
+        "BraTS Subject ID":"BraTS-GLI-02304-100",
+        "id_number":"02304",
+        "Patient's Age":70.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02306",
+        "BraTS Subject ID":"BraTS-GLI-02306-100",
+        "id_number":"02306",
+        "Patient's Age":52.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02307",
+        "BraTS Subject ID":"BraTS-GLI-02307-100",
+        "id_number":"02307",
+        "Patient's Age":39.0,
+        "Patient's Sex":"F",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02309",
+        "BraTS Subject ID":"BraTS-GLI-02309-100",
+        "id_number":"02309",
+        "Patient's Age":81.0,
+        "Patient's Sex":"F",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02310",
+        "BraTS Subject ID":"BraTS-GLI-02310-100",
+        "id_number":"02310",
+        "Patient's Age":29.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02313",
+        "BraTS Subject ID":"BraTS-GLI-02313-100",
+        "id_number":"02313",
+        "Patient's Age":53.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02314",
+        "BraTS Subject ID":"BraTS-GLI-02314-100",
+        "id_number":"02314",
+        "Patient's Age":56.0,
+        "Patient's Sex":"F",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02315",
+        "BraTS Subject ID":"BraTS-GLI-02315-100",
+        "id_number":"02315",
+        "Patient's Age":54.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02317",
+        "BraTS Subject ID":"BraTS-GLI-02317-100",
+        "id_number":"02317",
+        "Patient's Age":67.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02318",
+        "BraTS Subject ID":"BraTS-GLI-02318-100",
+        "id_number":"02318",
+        "Patient's Age":47.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02319",
+        "BraTS Subject ID":"BraTS-GLI-02319-100",
+        "id_number":"02319",
+        "Patient's Age":76.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02321",
+        "BraTS Subject ID":"BraTS-GLI-02321-100",
+        "id_number":"02321",
+        "Patient's Age":62.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02326",
+        "BraTS Subject ID":"BraTS-GLI-02326-100",
+        "id_number":"02326",
+        "Patient's Age":70.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02327",
+        "BraTS Subject ID":"BraTS-GLI-02327-100",
+        "id_number":"02327",
+        "Patient's Age":56.0,
+        "Patient's Sex":"F",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02328",
+        "BraTS Subject ID":"BraTS-GLI-02328-100",
+        "id_number":"02328",
+        "Patient's Age":66.0,
+        "Patient's Sex":"F",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02329",
+        "BraTS Subject ID":"BraTS-GLI-02329-100",
+        "id_number":"02329",
+        "Patient's Age":36.0,
+        "Patient's Sex":"F",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02330",
+        "BraTS Subject ID":"BraTS-GLI-02330-100",
+        "id_number":"02330",
+        "Patient's Age":39.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02331",
+        "BraTS Subject ID":"BraTS-GLI-02331-100",
+        "id_number":"02331",
+        "Patient's Age":29.0,
+        "Patient's Sex":"F",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02332",
+        "BraTS Subject ID":"BraTS-GLI-02332-100",
+        "id_number":"02332",
+        "Patient's Age":47.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02333",
+        "BraTS Subject ID":"BraTS-GLI-02333-100",
+        "id_number":"02333",
+        "Patient's Age":64.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02334",
+        "BraTS Subject ID":"BraTS-GLI-02334-100",
+        "id_number":"02334",
+        "Patient's Age":54.0,
+        "Patient's Sex":"F",
+        "Glioma type ":"Astrocytoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02335",
+        "BraTS Subject ID":"BraTS-GLI-02335-100",
+        "id_number":"02335",
+        "Patient's Age":68.0,
+        "Patient's Sex":"F",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02336",
+        "BraTS Subject ID":"BraTS-GLI-02336-100",
+        "id_number":"02336",
+        "Patient's Age":66.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02337",
+        "BraTS Subject ID":"BraTS-GLI-02337-100",
+        "id_number":"02337",
+        "Patient's Age":43.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02338",
+        "BraTS Subject ID":"BraTS-GLI-02338-100",
+        "id_number":"02338",
+        "Patient's Age":59.0,
+        "Patient's Sex":"F",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02339",
+        "BraTS Subject ID":"BraTS-GLI-02339-100",
+        "id_number":"02339",
+        "Patient's Age":62.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02340",
+        "BraTS Subject ID":"BraTS-GLI-02340-100",
+        "id_number":"02340",
+        "Patient's Age":49.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02341",
+        "BraTS Subject ID":"BraTS-GLI-02341-100",
+        "id_number":"02341",
+        "Patient's Age":27.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02342",
+        "BraTS Subject ID":"BraTS-GLI-02342-100",
+        "id_number":"02342",
+        "Patient's Age":62.0,
+        "Patient's Sex":"F",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02343",
+        "BraTS Subject ID":"BraTS-GLI-02343-100",
+        "id_number":"02343",
+        "Patient's Age":81.0,
+        "Patient's Sex":"F",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02344",
+        "BraTS Subject ID":"BraTS-GLI-02344-100",
+        "id_number":"02344",
+        "Patient's Age":73.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02345",
+        "BraTS Subject ID":"BraTS-GLI-02345-100",
+        "id_number":"02345",
+        "Patient's Age":52.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02346",
+        "BraTS Subject ID":"BraTS-GLI-02346-100",
+        "id_number":"02346",
+        "Patient's Age":56.0,
+        "Patient's Sex":"F",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02347",
+        "BraTS Subject ID":"BraTS-GLI-02347-100",
+        "id_number":"02347",
+        "Patient's Age":53.0,
+        "Patient's Sex":"F",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02348",
+        "BraTS Subject ID":"BraTS-GLI-02348-100",
+        "id_number":"02348",
+        "Patient's Age":56.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02349",
+        "BraTS Subject ID":"BraTS-GLI-02349-100",
+        "id_number":"02349",
+        "Patient's Age":52.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02352",
+        "BraTS Subject ID":"BraTS-GLI-02352-100",
+        "id_number":"02352",
+        "Patient's Age":71.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02354",
+        "BraTS Subject ID":"BraTS-GLI-02354-100",
+        "id_number":"02354",
+        "Patient's Age":67.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02355",
+        "BraTS Subject ID":"BraTS-GLI-02355-100",
+        "id_number":"02355",
+        "Patient's Age":61.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02356",
+        "BraTS Subject ID":"BraTS-GLI-02356-100",
+        "id_number":"02356",
+        "Patient's Age":88.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02358",
+        "BraTS Subject ID":"BraTS-GLI-02358-100",
+        "id_number":"02358",
+        "Patient's Age":77.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02359",
+        "BraTS Subject ID":"BraTS-GLI-02359-100",
+        "id_number":"02359",
+        "Patient's Age":55.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02360",
+        "BraTS Subject ID":"BraTS-GLI-02360-100",
+        "id_number":"02360",
+        "Patient's Age":74.0,
+        "Patient's Sex":"F",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02361",
+        "BraTS Subject ID":"BraTS-GLI-02361-100",
+        "id_number":"02361",
+        "Patient's Age":56.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02362",
+        "BraTS Subject ID":"BraTS-GLI-02362-100",
+        "id_number":"02362",
+        "Patient's Age":76.0,
+        "Patient's Sex":"F",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02363",
+        "BraTS Subject ID":"BraTS-GLI-02363-100",
+        "id_number":"02363",
+        "Patient's Age":41.0,
+        "Patient's Sex":"F",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02365",
+        "BraTS Subject ID":"BraTS-GLI-02365-100",
+        "id_number":"02365",
+        "Patient's Age":57.0,
+        "Patient's Sex":"F",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02368",
+        "BraTS Subject ID":"BraTS-GLI-02368-100",
+        "id_number":"02368",
+        "Patient's Age":70.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02369",
+        "BraTS Subject ID":"BraTS-GLI-02369-100",
+        "id_number":"02369",
+        "Patient's Age":61.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02372",
+        "BraTS Subject ID":"BraTS-GLI-02372-100",
+        "id_number":"02372",
+        "Patient's Age":52.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02373",
+        "BraTS Subject ID":"BraTS-GLI-02373-100",
+        "id_number":"02373",
+        "Patient's Age":41.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02374",
+        "BraTS Subject ID":"BraTS-GLI-02374-100",
+        "id_number":"02374",
+        "Patient's Age":48.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02375",
+        "BraTS Subject ID":"BraTS-GLI-02375-100",
+        "id_number":"02375",
+        "Patient's Age":57.0,
+        "Patient's Sex":"F",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02377",
+        "BraTS Subject ID":"BraTS-GLI-02377-100",
+        "id_number":"02377",
+        "Patient's Age":52.0,
+        "Patient's Sex":"F",
+        "Glioma type ":"Astrocytoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02378",
+        "BraTS Subject ID":"BraTS-GLI-02378-100",
+        "id_number":"02378",
+        "Patient's Age":52.0,
+        "Patient's Sex":"F",
+        "Glioma type ":"Astrocytoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02379",
+        "BraTS Subject ID":"BraTS-GLI-02379-100",
+        "id_number":"02379",
+        "Patient's Age":65.0,
+        "Patient's Sex":"F",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02380",
+        "BraTS Subject ID":"BraTS-GLI-02380-100",
+        "id_number":"02380",
+        "Patient's Age":52.0,
+        "Patient's Sex":"F",
+        "Glioma type ":"Astrocytoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02381",
+        "BraTS Subject ID":"BraTS-GLI-02381-100",
+        "id_number":"02381",
+        "Patient's Age":60.0,
+        "Patient's Sex":"F",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02382",
+        "BraTS Subject ID":"BraTS-GLI-02382-100",
+        "id_number":"02382",
+        "Patient's Age":58.0,
+        "Patient's Sex":"F",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02383",
+        "BraTS Subject ID":"BraTS-GLI-02383-100",
+        "id_number":"02383",
+        "Patient's Age":81.0,
+        "Patient's Sex":"F",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02384",
+        "BraTS Subject ID":"BraTS-GLI-02384-100",
+        "id_number":"02384",
+        "Patient's Age":50.0,
+        "Patient's Sex":"F",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02385",
+        "BraTS Subject ID":"BraTS-GLI-02385-100",
+        "id_number":"02385",
+        "Patient's Age":50.0,
+        "Patient's Sex":"F",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02386",
+        "BraTS Subject ID":"BraTS-GLI-02386-100",
+        "id_number":"02386",
+        "Patient's Age":38.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02387",
+        "BraTS Subject ID":"BraTS-GLI-02387-100",
+        "id_number":"02387",
+        "Patient's Age":69.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02388",
+        "BraTS Subject ID":"BraTS-GLI-02388-100",
+        "id_number":"02388",
+        "Patient's Age":62.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02389",
+        "BraTS Subject ID":"BraTS-GLI-02389-100",
+        "id_number":"02389",
+        "Patient's Age":45.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02390",
+        "BraTS Subject ID":"BraTS-GLI-02390-100",
+        "id_number":"02390",
+        "Patient's Age":39.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02391",
+        "BraTS Subject ID":"BraTS-GLI-02391-100",
+        "id_number":"02391",
+        "Patient's Age":49.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02392",
+        "BraTS Subject ID":"BraTS-GLI-02392-100",
+        "id_number":"02392",
+        "Patient's Age":62.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02393",
+        "BraTS Subject ID":"BraTS-GLI-02393-100",
+        "id_number":"02393",
+        "Patient's Age":68.0,
+        "Patient's Sex":"F",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02394",
+        "BraTS Subject ID":"BraTS-GLI-02394-100",
+        "id_number":"02394",
+        "Patient's Age":69.0,
+        "Patient's Sex":"F",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02395",
+        "BraTS Subject ID":"BraTS-GLI-02395-100",
+        "id_number":"02395",
+        "Patient's Age":22.0,
+        "Patient's Sex":"F",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02397",
+        "BraTS Subject ID":"BraTS-GLI-02397-100",
+        "id_number":"02397",
+        "Patient's Age":59.0,
+        "Patient's Sex":"F",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02402",
+        "BraTS Subject ID":"BraTS-GLI-02402-100",
+        "id_number":"02402",
+        "Patient's Age":49.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02403",
+        "BraTS Subject ID":"BraTS-GLI-02403-100",
+        "id_number":"02403",
+        "Patient's Age":72.0,
+        "Patient's Sex":"F",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02405",
+        "BraTS Subject ID":"BraTS-GLI-02405-100",
+        "id_number":"02405",
+        "Patient's Age":76.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02406",
+        "BraTS Subject ID":"BraTS-GLI-02406-100",
+        "id_number":"02406",
+        "Patient's Age":57.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02407",
+        "BraTS Subject ID":"BraTS-GLI-02407-100",
+        "id_number":"02407",
+        "Patient's Age":44.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02408",
+        "BraTS Subject ID":"BraTS-GLI-02408-100",
+        "id_number":"02408",
+        "Patient's Age":56.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02409",
+        "BraTS Subject ID":"BraTS-GLI-02409-100",
+        "id_number":"02409",
+        "Patient's Age":61.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02410",
+        "BraTS Subject ID":"BraTS-GLI-02410-100",
+        "id_number":"02410",
+        "Patient's Age":37.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02411",
+        "BraTS Subject ID":"BraTS-GLI-02411-100",
+        "id_number":"02411",
+        "Patient's Age":55.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02412",
+        "BraTS Subject ID":"BraTS-GLI-02412-100",
+        "id_number":"02412",
+        "Patient's Age":53.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02413",
+        "BraTS Subject ID":"BraTS-GLI-02413-100",
+        "id_number":"02413",
+        "Patient's Age":73.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02414",
+        "BraTS Subject ID":"BraTS-GLI-02414-100",
+        "id_number":"02414",
+        "Patient's Age":38.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02415",
+        "BraTS Subject ID":"BraTS-GLI-02415-100",
+        "id_number":"02415",
+        "Patient's Age":30.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02416",
+        "BraTS Subject ID":"BraTS-GLI-02416-100",
+        "id_number":"02416",
+        "Patient's Age":45.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02417",
+        "BraTS Subject ID":"BraTS-GLI-02417-100",
+        "id_number":"02417",
+        "Patient's Age":51.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02418",
+        "BraTS Subject ID":"BraTS-GLI-02418-100",
+        "id_number":"02418",
+        "Patient's Age":67.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02419",
+        "BraTS Subject ID":"BraTS-GLI-02419-100",
+        "id_number":"02419",
+        "Patient's Age":49.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02420",
+        "BraTS Subject ID":"BraTS-GLI-02420-100",
+        "id_number":"02420",
+        "Patient's Age":70.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02421",
+        "BraTS Subject ID":"BraTS-GLI-02421-100",
+        "id_number":"02421",
+        "Patient's Age":29.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02422",
+        "BraTS Subject ID":"BraTS-GLI-02422-100",
+        "id_number":"02422",
+        "Patient's Age":77.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02423",
+        "BraTS Subject ID":"BraTS-GLI-02423-100",
+        "id_number":"02423",
+        "Patient's Age":45.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02424",
+        "BraTS Subject ID":"BraTS-GLI-02424-100",
+        "id_number":"02424",
+        "Patient's Age":58.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02425",
+        "BraTS Subject ID":"BraTS-GLI-02425-100",
+        "id_number":"02425",
+        "Patient's Age":56.0,
+        "Patient's Sex":"F",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02426",
+        "BraTS Subject ID":"BraTS-GLI-02426-100",
+        "id_number":"02426",
+        "Patient's Age":65.0,
+        "Patient's Sex":"F",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02427",
+        "BraTS Subject ID":"BraTS-GLI-02427-100",
+        "id_number":"02427",
+        "Patient's Age":64.0,
+        "Patient's Sex":"F",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02428",
+        "BraTS Subject ID":"BraTS-GLI-02428-100",
+        "id_number":"02428",
+        "Patient's Age":69.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02429",
+        "BraTS Subject ID":"BraTS-GLI-02429-100",
+        "id_number":"02429",
+        "Patient's Age":57.0,
+        "Patient's Sex":"F",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02430",
+        "BraTS Subject ID":"BraTS-GLI-02430-100",
+        "id_number":"02430",
+        "Patient's Age":40.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02431",
+        "BraTS Subject ID":"BraTS-GLI-02431-100",
+        "id_number":"02431",
+        "Patient's Age":70.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02432",
+        "BraTS Subject ID":"BraTS-GLI-02432-100",
+        "id_number":"02432",
+        "Patient's Age":47.0,
+        "Patient's Sex":"F",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02433",
+        "BraTS Subject ID":"BraTS-GLI-02433-100",
+        "id_number":"02433",
+        "Patient's Age":81.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02478",
+        "BraTS Subject ID":"BraTS-GLI-02478-100",
+        "id_number":"02478",
+        "Patient's Age":59.0,
+        "Patient's Sex":"F",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02479",
+        "BraTS Subject ID":"BraTS-GLI-02479-100",
+        "id_number":"02479",
+        "Patient's Age":37.0,
+        "Patient's Sex":"F",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02480",
+        "BraTS Subject ID":"BraTS-GLI-02480-100",
+        "id_number":"02480",
+        "Patient's Age":66.0,
+        "Patient's Sex":"F",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02481",
+        "BraTS Subject ID":"BraTS-GLI-02481-100",
+        "id_number":"02481",
+        "Patient's Age":63.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02482",
+        "BraTS Subject ID":"BraTS-GLI-02482-100",
+        "id_number":"02482",
+        "Patient's Age":67.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02483",
+        "BraTS Subject ID":"BraTS-GLI-02483-100",
+        "id_number":"02483",
+        "Patient's Age":85.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02484",
+        "BraTS Subject ID":"BraTS-GLI-02484-100",
+        "id_number":"02484",
+        "Patient's Age":56.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02485",
+        "BraTS Subject ID":"BraTS-GLI-02485-100",
+        "id_number":"02485",
+        "Patient's Age":52.0,
+        "Patient's Sex":"F",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02486",
+        "BraTS Subject ID":"BraTS-GLI-02486-100",
+        "id_number":"02486",
+        "Patient's Age":65.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02487",
+        "BraTS Subject ID":"BraTS-GLI-02487-100",
+        "id_number":"02487",
+        "Patient's Age":73.0,
+        "Patient's Sex":"F",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02488",
+        "BraTS Subject ID":"BraTS-GLI-02488-100",
+        "id_number":"02488",
+        "Patient's Age":null,
+        "Patient's Sex":"M",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02489",
+        "BraTS Subject ID":"BraTS-GLI-02489-100",
+        "id_number":"02489",
+        "Patient's Age":61.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02490",
+        "BraTS Subject ID":"BraTS-GLI-02490-100",
+        "id_number":"02490",
+        "Patient's Age":64.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02491",
+        "BraTS Subject ID":"BraTS-GLI-02491-100",
+        "id_number":"02491",
+        "Patient's Age":63.0,
+        "Patient's Sex":"F",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02492",
+        "BraTS Subject ID":"BraTS-GLI-02492-100",
+        "id_number":"02492",
+        "Patient's Age":53.0,
+        "Patient's Sex":"F",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02493",
+        "BraTS Subject ID":"BraTS-GLI-02493-100",
+        "id_number":"02493",
+        "Patient's Age":43.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02494",
+        "BraTS Subject ID":"BraTS-GLI-02494-100",
+        "id_number":"02494",
+        "Patient's Age":78.0,
+        "Patient's Sex":"F",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02496",
+        "BraTS Subject ID":"BraTS-GLI-02496-100",
+        "id_number":"02496",
+        "Patient's Age":40.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02498",
+        "BraTS Subject ID":"BraTS-GLI-02498-100",
+        "id_number":"02498",
+        "Patient's Age":55.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02499",
+        "BraTS Subject ID":"BraTS-GLI-02499-100",
+        "id_number":"02499",
+        "Patient's Age":63.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02500",
+        "BraTS Subject ID":"BraTS-GLI-02500-100",
+        "id_number":"02500",
+        "Patient's Age":44.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02501",
+        "BraTS Subject ID":"BraTS-GLI-02501-100",
+        "id_number":"02501",
+        "Patient's Age":73.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02502",
+        "BraTS Subject ID":"BraTS-GLI-02502-100",
+        "id_number":"02502",
+        "Patient's Age":86.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02503",
+        "BraTS Subject ID":"BraTS-GLI-02503-100",
+        "id_number":"02503",
+        "Patient's Age":65.0,
+        "Patient's Sex":"F",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02504",
+        "BraTS Subject ID":"BraTS-GLI-02504-100",
+        "id_number":"02504",
+        "Patient's Age":69.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02505",
+        "BraTS Subject ID":"BraTS-GLI-02505-100",
+        "id_number":"02505",
+        "Patient's Age":78.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02506",
+        "BraTS Subject ID":"BraTS-GLI-02506-100",
+        "id_number":"02506",
+        "Patient's Age":50.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02507",
+        "BraTS Subject ID":"BraTS-GLI-02507-100",
+        "id_number":"02507",
+        "Patient's Age":57.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02508",
+        "BraTS Subject ID":"BraTS-GLI-02508-100",
+        "id_number":"02508",
+        "Patient's Age":71.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02509",
+        "BraTS Subject ID":"BraTS-GLI-02509-100",
+        "id_number":"02509",
+        "Patient's Age":69.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02510",
+        "BraTS Subject ID":"BraTS-GLI-02510-100",
+        "id_number":"02510",
+        "Patient's Age":37.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02511",
+        "BraTS Subject ID":"BraTS-GLI-02511-100",
+        "id_number":"02511",
+        "Patient's Age":82.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02512",
+        "BraTS Subject ID":"BraTS-GLI-02512-100",
+        "id_number":"02512",
+        "Patient's Age":62.0,
+        "Patient's Sex":"F",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02513",
+        "BraTS Subject ID":"BraTS-GLI-02513-100",
+        "id_number":"02513",
+        "Patient's Age":78.0,
+        "Patient's Sex":"F",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02514",
+        "BraTS Subject ID":"BraTS-GLI-02514-100",
+        "id_number":"02514",
+        "Patient's Age":49.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02515",
+        "BraTS Subject ID":"BraTS-GLI-02515-100",
+        "id_number":"02515",
+        "Patient's Age":69.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02517",
+        "BraTS Subject ID":"BraTS-GLI-02517-100",
+        "id_number":"02517",
+        "Patient's Age":54.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02518",
+        "BraTS Subject ID":"BraTS-GLI-02518-100",
+        "id_number":"02518",
+        "Patient's Age":62.0,
+        "Patient's Sex":"F",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02519",
+        "BraTS Subject ID":"BraTS-GLI-02519-100",
+        "id_number":"02519",
+        "Patient's Age":52.0,
+        "Patient's Sex":"F",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02520",
+        "BraTS Subject ID":"BraTS-GLI-02520-100",
+        "id_number":"02520",
+        "Patient's Age":60.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02522",
+        "BraTS Subject ID":"BraTS-GLI-02522-100",
+        "id_number":"02522",
+        "Patient's Age":63.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02524",
+        "BraTS Subject ID":"BraTS-GLI-02524-100",
+        "id_number":"02524",
+        "Patient's Age":47.0,
+        "Patient's Sex":"F",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02526",
+        "BraTS Subject ID":"BraTS-GLI-02526-100",
+        "id_number":"02526",
+        "Patient's Age":52.0,
+        "Patient's Sex":"F",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02531",
+        "BraTS Subject ID":"BraTS-GLI-02531-100",
+        "id_number":"02531",
+        "Patient's Age":65.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02532",
+        "BraTS Subject ID":"BraTS-GLI-02532-100",
+        "id_number":"02532",
+        "Patient's Age":70.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02534",
+        "BraTS Subject ID":"BraTS-GLI-02534-100",
+        "id_number":"02534",
+        "Patient's Age":24.0,
+        "Patient's Sex":"F",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02535",
+        "BraTS Subject ID":"BraTS-GLI-02535-100",
+        "id_number":"02535",
+        "Patient's Age":81.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02536",
+        "BraTS Subject ID":"BraTS-GLI-02536-100",
+        "id_number":"02536",
+        "Patient's Age":68.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02537",
+        "BraTS Subject ID":"BraTS-GLI-02537-100",
+        "id_number":"02537",
+        "Patient's Age":66.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02538",
+        "BraTS Subject ID":"BraTS-GLI-02538-100",
+        "id_number":"02538",
+        "Patient's Age":70.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02539",
+        "BraTS Subject ID":"BraTS-GLI-02539-100",
+        "id_number":"02539",
+        "Patient's Age":52.0,
+        "Patient's Sex":"F",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02540",
+        "BraTS Subject ID":"BraTS-GLI-02540-100",
+        "id_number":"02540",
+        "Patient's Age":69.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02541",
+        "BraTS Subject ID":"BraTS-GLI-02541-100",
+        "id_number":"02541",
+        "Patient's Age":85.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02542",
+        "BraTS Subject ID":"BraTS-GLI-02542-100",
+        "id_number":"02542",
+        "Patient's Age":76.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02543",
+        "BraTS Subject ID":"BraTS-GLI-02543-100",
+        "id_number":"02543",
+        "Patient's Age":69.0,
+        "Patient's Sex":"F",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02544",
+        "BraTS Subject ID":"BraTS-GLI-02544-100",
+        "id_number":"02544",
+        "Patient's Age":58.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02546",
+        "BraTS Subject ID":"BraTS-GLI-02546-100",
+        "id_number":"02546",
+        "Patient's Age":64.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02547",
+        "BraTS Subject ID":"BraTS-GLI-02547-100",
+        "id_number":"02547",
+        "Patient's Age":64.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02548",
+        "BraTS Subject ID":"BraTS-GLI-02548-100",
+        "id_number":"02548",
+        "Patient's Age":51.0,
+        "Patient's Sex":"F",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02549",
+        "BraTS Subject ID":"BraTS-GLI-02549-100",
+        "id_number":"02549",
+        "Patient's Age":65.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02551",
+        "BraTS Subject ID":"BraTS-GLI-02551-100",
+        "id_number":"02551",
+        "Patient's Age":76.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02552",
+        "BraTS Subject ID":"BraTS-GLI-02552-100",
+        "id_number":"02552",
+        "Patient's Age":80.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02553",
+        "BraTS Subject ID":"BraTS-GLI-02553-100",
+        "id_number":"02553",
+        "Patient's Age":72.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02556",
+        "BraTS Subject ID":"BraTS-GLI-02556-100",
+        "id_number":"02556",
+        "Patient's Age":68.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02557",
+        "BraTS Subject ID":"BraTS-GLI-02557-100",
+        "id_number":"02557",
+        "Patient's Age":72.0,
+        "Patient's Sex":"F",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02558",
+        "BraTS Subject ID":"BraTS-GLI-02558-100",
+        "id_number":"02558",
+        "Patient's Age":61.0,
+        "Patient's Sex":"F",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02559",
+        "BraTS Subject ID":"BraTS-GLI-02559-100",
+        "id_number":"02559",
+        "Patient's Age":47.0,
+        "Patient's Sex":"F",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02561",
+        "BraTS Subject ID":"BraTS-GLI-02561-100",
+        "id_number":"02561",
+        "Patient's Age":70.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02562",
+        "BraTS Subject ID":"BraTS-GLI-02562-100",
+        "id_number":"02562",
+        "Patient's Age":60.0,
+        "Patient's Sex":"F",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02563",
+        "BraTS Subject ID":"BraTS-GLI-02563-100",
+        "id_number":"02563",
+        "Patient's Age":58.0,
+        "Patient's Sex":"F",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02564",
+        "BraTS Subject ID":"BraTS-GLI-02564-100",
+        "id_number":"02564",
+        "Patient's Age":67.0,
+        "Patient's Sex":"F",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02565",
+        "BraTS Subject ID":"BraTS-GLI-02565-100",
+        "id_number":"02565",
+        "Patient's Age":63.0,
+        "Patient's Sex":"F",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02566",
+        "BraTS Subject ID":"BraTS-GLI-02566-100",
+        "id_number":"02566",
+        "Patient's Age":64.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02567",
+        "BraTS Subject ID":"BraTS-GLI-02567-100",
+        "id_number":"02567",
+        "Patient's Age":85.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02568",
+        "BraTS Subject ID":"BraTS-GLI-02568-100",
+        "id_number":"02568",
+        "Patient's Age":70.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02569",
+        "BraTS Subject ID":"BraTS-GLI-02569-100",
+        "id_number":"02569",
+        "Patient's Age":79.0,
+        "Patient's Sex":"F",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02570",
+        "BraTS Subject ID":"BraTS-GLI-02570-100",
+        "id_number":"02570",
+        "Patient's Age":66.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02571",
+        "BraTS Subject ID":"BraTS-GLI-02571-100",
+        "id_number":"02571",
+        "Patient's Age":78.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02572",
+        "BraTS Subject ID":"BraTS-GLI-02572-100",
+        "id_number":"02572",
+        "Patient's Age":62.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02573",
+        "BraTS Subject ID":"BraTS-GLI-02573-100",
+        "id_number":"02573",
+        "Patient's Age":82.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02574",
+        "BraTS Subject ID":"BraTS-GLI-02574-100",
+        "id_number":"02574",
+        "Patient's Age":77.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02575",
+        "BraTS Subject ID":"BraTS-GLI-02575-100",
+        "id_number":"02575",
+        "Patient's Age":61.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02576",
+        "BraTS Subject ID":"BraTS-GLI-02576-100",
+        "id_number":"02576",
+        "Patient's Age":68.0,
+        "Patient's Sex":"F",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02577",
+        "BraTS Subject ID":"BraTS-GLI-02577-100",
+        "id_number":"02577",
+        "Patient's Age":38.0,
+        "Patient's Sex":"F",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02578",
+        "BraTS Subject ID":"BraTS-GLI-02578-100",
+        "id_number":"02578",
+        "Patient's Age":82.0,
+        "Patient's Sex":"F",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02579",
+        "BraTS Subject ID":"BraTS-GLI-02579-100",
+        "id_number":"02579",
+        "Patient's Age":null,
+        "Patient's Sex":"M",
+        "Glioma type ":"Astrocytoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02580",
+        "BraTS Subject ID":"BraTS-GLI-02580-100",
+        "id_number":"02580",
+        "Patient's Age":null,
+        "Patient's Sex":"M",
+        "Glioma type ":"Astrocytoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02581",
+        "BraTS Subject ID":"BraTS-GLI-02581-101",
+        "id_number":"02581",
+        "Patient's Age":null,
+        "Patient's Sex":"M",
+        "Glioma type ":"Astrocytoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02582",
+        "BraTS Subject ID":"BraTS-GLI-02582-100",
+        "id_number":"02582",
+        "Patient's Age":null,
+        "Patient's Sex":"F",
+        "Glioma type ":"Astrocytoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02583",
+        "BraTS Subject ID":"BraTS-GLI-02583-100",
+        "id_number":"02583",
+        "Patient's Age":null,
+        "Patient's Sex":"F",
+        "Glioma type ":"Astrocytoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02584",
+        "BraTS Subject ID":"BraTS-GLI-02584-100",
+        "id_number":"02584",
+        "Patient's Age":null,
+        "Patient's Sex":"F",
+        "Glioma type ":"Astrocytoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02585",
+        "BraTS Subject ID":"BraTS-GLI-02585-101",
+        "id_number":"02585",
+        "Patient's Age":null,
+        "Patient's Sex":"F",
+        "Glioma type ":"Astrocytoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02587",
+        "BraTS Subject ID":"BraTS-GLI-02587-100",
+        "id_number":"02587",
+        "Patient's Age":39.0,
+        "Patient's Sex":"F",
+        "Glioma type ":"Astrocytoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02589",
+        "BraTS Subject ID":"BraTS-GLI-02589-100",
+        "id_number":"02589",
+        "Patient's Age":63.0,
+        "Patient's Sex":"F",
+        "Glioma type ":"Astrocytoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02591",
+        "BraTS Subject ID":"BraTS-GLI-02591-101",
+        "id_number":"02591",
+        "Patient's Age":35.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Astrocytoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02592",
+        "BraTS Subject ID":"BraTS-GLI-02592-100",
+        "id_number":"02592",
+        "Patient's Age":55.0,
+        "Patient's Sex":"F",
+        "Glioma type ":"Astrocytoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02594",
+        "BraTS Subject ID":"BraTS-GLI-02594-100",
+        "id_number":"02594",
+        "Patient's Age":38.0,
+        "Patient's Sex":"F",
+        "Glioma type ":"Astrocytoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02595",
+        "BraTS Subject ID":"BraTS-GLI-02595-100",
+        "id_number":"02595",
+        "Patient's Age":30.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Astrocytoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02596",
+        "BraTS Subject ID":"BraTS-GLI-02596-100",
+        "id_number":"02596",
+        "Patient's Age":32.0,
+        "Patient's Sex":"F",
+        "Glioma type ":"Astrocytoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02597",
+        "BraTS Subject ID":"BraTS-GLI-02597-100",
+        "id_number":"02597",
+        "Patient's Age":32.0,
+        "Patient's Sex":"F",
+        "Glioma type ":"Astrocytoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02598",
+        "BraTS Subject ID":"BraTS-GLI-02598-100",
+        "id_number":"02598",
+        "Patient's Age":23.0,
+        "Patient's Sex":"F",
+        "Glioma type ":"Astrocytoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02599",
+        "BraTS Subject ID":"BraTS-GLI-02599-100",
+        "id_number":"02599",
+        "Patient's Age":65.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Astrocytoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02602",
+        "BraTS Subject ID":"BraTS-GLI-02602-100",
+        "id_number":"02602",
+        "Patient's Age":30.0,
+        "Patient's Sex":"F",
+        "Glioma type ":"Astrocytoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02605",
+        "BraTS Subject ID":"BraTS-GLI-02605-100",
+        "id_number":"02605",
+        "Patient's Age":49.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Astrocytoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02607",
+        "BraTS Subject ID":"BraTS-GLI-02607-100",
+        "id_number":"02607",
+        "Patient's Age":20.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Astrocytoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02608",
+        "BraTS Subject ID":"BraTS-GLI-02608-100",
+        "id_number":"02608",
+        "Patient's Age":45.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Astrocytoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02609",
+        "BraTS Subject ID":"BraTS-GLI-02609-100",
+        "id_number":"02609",
+        "Patient's Age":26.0,
+        "Patient's Sex":"F",
+        "Glioma type ":"Astrocytoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02610",
+        "BraTS Subject ID":"BraTS-GLI-02610-100",
+        "id_number":"02610",
+        "Patient's Age":79.0,
+        "Patient's Sex":"F",
+        "Glioma type ":"Astrocytoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02611",
+        "BraTS Subject ID":"BraTS-GLI-02611-100",
+        "id_number":"02611",
+        "Patient's Age":72.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Astrocytoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02614",
+        "BraTS Subject ID":"BraTS-GLI-02614-100",
+        "id_number":"02614",
+        "Patient's Age":29.0,
+        "Patient's Sex":"F",
+        "Glioma type ":"Astrocytoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02615",
+        "BraTS Subject ID":"BraTS-GLI-02615-100",
+        "id_number":"02615",
+        "Patient's Age":19.0,
+        "Patient's Sex":"F",
+        "Glioma type ":"Astrocytoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02616",
+        "BraTS Subject ID":"BraTS-GLI-02616-100",
+        "id_number":"02616",
+        "Patient's Age":33.0,
+        "Patient's Sex":"F",
+        "Glioma type ":"Astrocytoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02617",
+        "BraTS Subject ID":"BraTS-GLI-02617-100",
+        "id_number":"02617",
+        "Patient's Age":32.0,
+        "Patient's Sex":"F",
+        "Glioma type ":"Glioma NOS"
+    },
+    {
+        "patient_id":"BraTS-GLI-02618",
+        "BraTS Subject ID":"BraTS-GLI-02618-100",
+        "id_number":"02618",
+        "Patient's Age":25.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Glioma NOS"
+    },
+    {
+        "patient_id":"BraTS-GLI-02619",
+        "BraTS Subject ID":"BraTS-GLI-02619-100",
+        "id_number":"02619",
+        "Patient's Age":71.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Glioma NOS"
+    },
+    {
+        "patient_id":"BraTS-GLI-02620",
+        "BraTS Subject ID":"BraTS-GLI-02620-100",
+        "id_number":"02620",
+        "Patient's Age":53.0,
+        "Patient's Sex":"F",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02621",
+        "BraTS Subject ID":"BraTS-GLI-02621-100",
+        "id_number":"02621",
+        "Patient's Age":79.0,
+        "Patient's Sex":"F",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02623",
+        "BraTS Subject ID":"BraTS-GLI-02623-100",
+        "id_number":"02623",
+        "Patient's Age":29.0,
+        "Patient's Sex":"F",
+        "Glioma type ":"Oligodendroglioma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02624",
+        "BraTS Subject ID":"BraTS-GLI-02624-100",
+        "id_number":"02624",
+        "Patient's Age":null,
+        "Patient's Sex":"F",
+        "Glioma type ":"Other"
+    },
+    {
+        "patient_id":"BraTS-GLI-02625",
+        "BraTS Subject ID":"BraTS-GLI-02625-100",
+        "id_number":"02625",
+        "Patient's Age":47.0,
+        "Patient's Sex":"F",
+        "Glioma type ":"Glioma NOS"
+    },
+    {
+        "patient_id":"BraTS-GLI-02626",
+        "BraTS Subject ID":"BraTS-GLI-02626-100",
+        "id_number":"02626",
+        "Patient's Age":48.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Astrocytoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02627",
+        "BraTS Subject ID":"BraTS-GLI-02627-100",
+        "id_number":"02627",
+        "Patient's Age":59.0,
+        "Patient's Sex":"F",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02630",
+        "BraTS Subject ID":"BraTS-GLI-02630-100",
+        "id_number":"02630",
+        "Patient's Age":47.0,
+        "Patient's Sex":"F",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02631",
+        "BraTS Subject ID":"BraTS-GLI-02631-100",
+        "id_number":"02631",
+        "Patient's Age":62.0,
+        "Patient's Sex":"F",
+        "Glioma type ":"Glioma NOS"
+    },
+    {
+        "patient_id":"BraTS-GLI-02632",
+        "BraTS Subject ID":"BraTS-GLI-02632-100",
+        "id_number":"02632",
+        "Patient's Age":32.0,
+        "Patient's Sex":"F",
+        "Glioma type ":"Astrocytoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02633",
+        "BraTS Subject ID":"BraTS-GLI-02633-100",
+        "id_number":"02633",
+        "Patient's Age":null,
+        "Patient's Sex":"F",
+        "Glioma type ":"Astrocytoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02634",
+        "BraTS Subject ID":"BraTS-GLI-02634-100",
+        "id_number":"02634",
+        "Patient's Age":43.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Glioma NOS"
+    },
+    {
+        "patient_id":"BraTS-GLI-02635",
+        "BraTS Subject ID":"BraTS-GLI-02635-100",
+        "id_number":"02635",
+        "Patient's Age":69.0,
+        "Patient's Sex":"F",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02636",
+        "BraTS Subject ID":"BraTS-GLI-02636-100",
+        "id_number":"02636",
+        "Patient's Age":62.0,
+        "Patient's Sex":"F",
+        "Glioma type ":"Astrocytoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02637",
+        "BraTS Subject ID":"BraTS-GLI-02637-100",
+        "id_number":"02637",
+        "Patient's Age":37.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Astrocytoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02638",
+        "BraTS Subject ID":"BraTS-GLI-02638-100",
+        "id_number":"02638",
+        "Patient's Age":52.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Oligodendroglioma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02639",
+        "BraTS Subject ID":"BraTS-GLI-02639-100",
+        "id_number":"02639",
+        "Patient's Age":66.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02640",
+        "BraTS Subject ID":"BraTS-GLI-02640-100",
+        "id_number":"02640",
+        "Patient's Age":62.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02641",
+        "BraTS Subject ID":"BraTS-GLI-02641-100",
+        "id_number":"02641",
+        "Patient's Age":29.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Oligodendroglioma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02642",
+        "BraTS Subject ID":"BraTS-GLI-02642-100",
+        "id_number":"02642",
+        "Patient's Age":31.0,
+        "Patient's Sex":"F",
+        "Glioma type ":"Astrocytoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02643",
+        "BraTS Subject ID":"BraTS-GLI-02643-100",
+        "id_number":"02643",
+        "Patient's Age":56.0,
+        "Patient's Sex":"F",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02644",
+        "BraTS Subject ID":"BraTS-GLI-02644-100",
+        "id_number":"02644",
+        "Patient's Age":29.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02645",
+        "BraTS Subject ID":"BraTS-GLI-02645-100",
+        "id_number":"02645",
+        "Patient's Age":61.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02646",
+        "BraTS Subject ID":"BraTS-GLI-02646-100",
+        "id_number":"02646",
+        "Patient's Age":44.0,
+        "Patient's Sex":"F",
+        "Glioma type ":"Oligodendroglioma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02647",
+        "BraTS Subject ID":"BraTS-GLI-02647-100",
+        "id_number":"02647",
+        "Patient's Age":38.0,
+        "Patient's Sex":"F",
+        "Glioma type ":"Oligodendroglioma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02648",
+        "BraTS Subject ID":"BraTS-GLI-02648-100",
+        "id_number":"02648",
+        "Patient's Age":44.0,
+        "Patient's Sex":"F",
+        "Glioma type ":"Oligodendroglioma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02649",
+        "BraTS Subject ID":"BraTS-GLI-02649-100",
+        "id_number":"02649",
+        "Patient's Age":58.0,
+        "Patient's Sex":"F",
+        "Glioma type ":"Oligodendroglioma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02650",
+        "BraTS Subject ID":"BraTS-GLI-02650-100",
+        "id_number":"02650",
+        "Patient's Age":46.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Oligodendroglioma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02651",
+        "BraTS Subject ID":"BraTS-GLI-02651-100",
+        "id_number":"02651",
+        "Patient's Age":55.0,
+        "Patient's Sex":"F",
+        "Glioma type ":"Oligodendroglioma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02652",
+        "BraTS Subject ID":"BraTS-GLI-02652-100",
+        "id_number":"02652",
+        "Patient's Age":36.0,
+        "Patient's Sex":"F",
+        "Glioma type ":"Oligodendroglioma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02653",
+        "BraTS Subject ID":"BraTS-GLI-02653-100",
+        "id_number":"02653",
+        "Patient's Age":49.0,
+        "Patient's Sex":"F",
+        "Glioma type ":"Oligodendroglioma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02654",
+        "BraTS Subject ID":"BraTS-GLI-02654-100",
+        "id_number":"02654",
+        "Patient's Age":41.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Oligodendroglioma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02655",
+        "BraTS Subject ID":"BraTS-GLI-02655-100",
+        "id_number":"02655",
+        "Patient's Age":54.0,
+        "Patient's Sex":"F",
+        "Glioma type ":"Oligodendroglioma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02656",
+        "BraTS Subject ID":"BraTS-GLI-02656-100",
+        "id_number":"02656",
+        "Patient's Age":57.0,
+        "Patient's Sex":"F",
+        "Glioma type ":"Oligodendroglioma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02657",
+        "BraTS Subject ID":"BraTS-GLI-02657-100",
+        "id_number":"02657",
+        "Patient's Age":53.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Oligodendroglioma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02658",
+        "BraTS Subject ID":"BraTS-GLI-02658-100",
+        "id_number":"02658",
+        "Patient's Age":47.0,
+        "Patient's Sex":"F",
+        "Glioma type ":"Oligodendroglioma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02659",
+        "BraTS Subject ID":"BraTS-GLI-02659-100",
+        "id_number":"02659",
+        "Patient's Age":49.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Oligodendroglioma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02660",
+        "BraTS Subject ID":"BraTS-GLI-02660-100",
+        "id_number":"02660",
+        "Patient's Age":65.0,
+        "Patient's Sex":"F",
+        "Glioma type ":"Oligodendroglioma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02661",
+        "BraTS Subject ID":"BraTS-GLI-02661-100",
+        "id_number":"02661",
+        "Patient's Age":44.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Astrocytoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02662",
+        "BraTS Subject ID":"BraTS-GLI-02662-100",
+        "id_number":"02662",
+        "Patient's Age":53.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Oligodendroglioma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02663",
+        "BraTS Subject ID":"BraTS-GLI-02663-100",
+        "id_number":"02663",
+        "Patient's Age":45.0,
+        "Patient's Sex":"F",
+        "Glioma type ":"Oligodendroglioma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02664",
+        "BraTS Subject ID":"BraTS-GLI-02664-100",
+        "id_number":"02664",
+        "Patient's Age":63.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Oligodendroglioma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02665",
+        "BraTS Subject ID":"BraTS-GLI-02665-100",
+        "id_number":"02665",
+        "Patient's Age":48.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Oligodendroglioma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02666",
+        "BraTS Subject ID":"BraTS-GLI-02666-100",
+        "id_number":"02666",
+        "Patient's Age":45.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Oligodendroglioma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02675",
+        "BraTS Subject ID":"BraTS-GLI-02675-100",
+        "id_number":"02675",
+        "Patient's Age":34.0,
+        "Patient's Sex":"F",
+        "Glioma type ":"Oligodendroglioma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02678",
+        "BraTS Subject ID":"BraTS-GLI-02678-100",
+        "id_number":"02678",
+        "Patient's Age":47.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Oligodendroglioma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02679",
+        "BraTS Subject ID":"BraTS-GLI-02679-100",
+        "id_number":"02679",
+        "Patient's Age":29.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Oligodendroglioma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02680",
+        "BraTS Subject ID":"BraTS-GLI-02680-100",
+        "id_number":"02680",
+        "Patient's Age":62.0,
+        "Patient's Sex":"F",
+        "Glioma type ":"Oligodendroglioma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02681",
+        "BraTS Subject ID":"BraTS-GLI-02681-100",
+        "id_number":"02681",
+        "Patient's Age":52.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Oligodendroglioma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02684",
+        "BraTS Subject ID":"BraTS-GLI-02684-100",
+        "id_number":"02684",
+        "Patient's Age":68.0,
+        "Patient's Sex":"F",
+        "Glioma type ":"Oligodendroglioma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02685",
+        "BraTS Subject ID":"BraTS-GLI-02685-100",
+        "id_number":"02685",
+        "Patient's Age":72.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Oligodendroglioma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02688",
+        "BraTS Subject ID":"BraTS-GLI-02688-100",
+        "id_number":"02688",
+        "Patient's Age":61.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Oligodendroglioma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02689",
+        "BraTS Subject ID":"BraTS-GLI-02689-100",
+        "id_number":"02689",
+        "Patient's Age":76.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Oligodendroglioma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02692",
+        "BraTS Subject ID":"BraTS-GLI-02692-100",
+        "id_number":"02692",
+        "Patient's Age":51.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Oligodendroglioma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02693",
+        "BraTS Subject ID":"BraTS-GLI-02693-100",
+        "id_number":"02693",
+        "Patient's Age":42.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Oligodendroglioma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02694",
+        "BraTS Subject ID":"BraTS-GLI-02694-100",
+        "id_number":"02694",
+        "Patient's Age":54.0,
+        "Patient's Sex":"F",
+        "Glioma type ":"Oligodendroglioma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02698",
+        "BraTS Subject ID":"BraTS-GLI-02698-100",
+        "id_number":"02698",
+        "Patient's Age":72.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Astrocytoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02699",
+        "BraTS Subject ID":"BraTS-GLI-02699-100",
+        "id_number":"02699",
+        "Patient's Age":51.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Astrocytoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02700",
+        "BraTS Subject ID":"BraTS-GLI-02700-100",
+        "id_number":"02700",
+        "Patient's Age":39.0,
+        "Patient's Sex":"F",
+        "Glioma type ":"Astrocytoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02701",
+        "BraTS Subject ID":"BraTS-GLI-02701-100",
+        "id_number":"02701",
+        "Patient's Age":40.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Astrocytoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02702",
+        "BraTS Subject ID":"BraTS-GLI-02702-100",
+        "id_number":"02702",
+        "Patient's Age":64.0,
+        "Patient's Sex":"F",
+        "Glioma type ":"Astrocytoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02703",
+        "BraTS Subject ID":"BraTS-GLI-02703-100",
+        "id_number":"02703",
+        "Patient's Age":71.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Astrocytoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02707",
+        "BraTS Subject ID":"BraTS-GLI-02707-100",
+        "id_number":"02707",
+        "Patient's Age":48.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Glioma NOS"
+    },
+    {
+        "patient_id":"BraTS-GLI-02708",
+        "BraTS Subject ID":"BraTS-GLI-02708-100",
+        "id_number":"02708",
+        "Patient's Age":35.0,
+        "Patient's Sex":"F",
+        "Glioma type ":"Astrocytoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02709",
+        "BraTS Subject ID":"BraTS-GLI-02709-100",
+        "id_number":"02709",
+        "Patient's Age":81.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Astrocytoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02710",
+        "BraTS Subject ID":"BraTS-GLI-02710-100",
+        "id_number":"02710",
+        "Patient's Age":65.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Oligodendroglioma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02711",
+        "BraTS Subject ID":"BraTS-GLI-02711-100",
+        "id_number":"02711",
+        "Patient's Age":62.0,
+        "Patient's Sex":"F",
+        "Glioma type ":"Astrocytoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02712",
+        "BraTS Subject ID":"BraTS-GLI-02712-100",
+        "id_number":"02712",
+        "Patient's Age":58.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Astrocytoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02713",
+        "BraTS Subject ID":"BraTS-GLI-02713-100",
+        "id_number":"02713",
+        "Patient's Age":50.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Astrocytoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02714",
+        "BraTS Subject ID":"BraTS-GLI-02714-100",
+        "id_number":"02714",
+        "Patient's Age":39.0,
+        "Patient's Sex":"F",
+        "Glioma type ":"Astrocytoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02715",
+        "BraTS Subject ID":"BraTS-GLI-02715-100",
+        "id_number":"02715",
+        "Patient's Age":51.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Astrocytoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02717",
+        "BraTS Subject ID":"BraTS-GLI-02717-100",
+        "id_number":"02717",
+        "Patient's Age":50.0,
+        "Patient's Sex":"F",
+        "Glioma type ":"Astrocytoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02718",
+        "BraTS Subject ID":"BraTS-GLI-02718-100",
+        "id_number":"02718",
+        "Patient's Age":76.0,
+        "Patient's Sex":"F",
+        "Glioma type ":"Astrocytoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02719",
+        "BraTS Subject ID":"BraTS-GLI-02719-100",
+        "id_number":"02719",
+        "Patient's Age":57.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Astrocytoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02720",
+        "BraTS Subject ID":"BraTS-GLI-02720-100",
+        "id_number":"02720",
+        "Patient's Age":47.0,
+        "Patient's Sex":"F",
+        "Glioma type ":"Astrocytoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02721",
+        "BraTS Subject ID":"BraTS-GLI-02721-100",
+        "id_number":"02721",
+        "Patient's Age":57.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Astrocytoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02722",
+        "BraTS Subject ID":"BraTS-GLI-02722-100",
+        "id_number":"02722",
+        "Patient's Age":39.0,
+        "Patient's Sex":"F",
+        "Glioma type ":"Astrocytoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02723",
+        "BraTS Subject ID":"BraTS-GLI-02723-100",
+        "id_number":"02723",
+        "Patient's Age":37.0,
+        "Patient's Sex":"F",
+        "Glioma type ":"Oligodendroglioma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02724",
+        "BraTS Subject ID":"BraTS-GLI-02724-100",
+        "id_number":"02724",
+        "Patient's Age":47.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Astrocytoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02725",
+        "BraTS Subject ID":"BraTS-GLI-02725-100",
+        "id_number":"02725",
+        "Patient's Age":23.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Astrocytoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02726",
+        "BraTS Subject ID":"BraTS-GLI-02726-100",
+        "id_number":"02726",
+        "Patient's Age":37.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Astrocytoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02727",
+        "BraTS Subject ID":"BraTS-GLI-02727-100",
+        "id_number":"02727",
+        "Patient's Age":30.0,
+        "Patient's Sex":"F",
+        "Glioma type ":"Astrocytoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02728",
+        "BraTS Subject ID":"BraTS-GLI-02728-100",
+        "id_number":"02728",
+        "Patient's Age":78.0,
+        "Patient's Sex":"F",
+        "Glioma type ":"Astrocytoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02730",
+        "BraTS Subject ID":"BraTS-GLI-02730-100",
+        "id_number":"02730",
+        "Patient's Age":49.0,
+        "Patient's Sex":"F",
+        "Glioma type ":"Astrocytoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02733",
+        "BraTS Subject ID":"BraTS-GLI-02733-100",
+        "id_number":"02733",
+        "Patient's Age":60.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Astrocytoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02735",
+        "BraTS Subject ID":"BraTS-GLI-02735-100",
+        "id_number":"02735",
+        "Patient's Age":60.0,
+        "Patient's Sex":"F",
+        "Glioma type ":"Oligodendroglioma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02736",
+        "BraTS Subject ID":"BraTS-GLI-02736-100",
+        "id_number":"02736",
+        "Patient's Age":68.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Oligodendroglioma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02737",
+        "BraTS Subject ID":"BraTS-GLI-02737-100",
+        "id_number":"02737",
+        "Patient's Age":68.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Oligodendroglioma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02739",
+        "BraTS Subject ID":"BraTS-GLI-02739-100",
+        "id_number":"02739",
+        "Patient's Age":63.0,
+        "Patient's Sex":"F",
+        "Glioma type ":"Astrocytoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02740",
+        "BraTS Subject ID":"BraTS-GLI-02740-100",
+        "id_number":"02740",
+        "Patient's Age":80.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Glioma NOS"
+    },
+    {
+        "patient_id":"BraTS-GLI-02741",
+        "BraTS Subject ID":"BraTS-GLI-02741-100",
+        "id_number":"02741",
+        "Patient's Age":69.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Other"
+    },
+    {
+        "patient_id":"BraTS-GLI-02742",
+        "BraTS Subject ID":"BraTS-GLI-02742-100",
+        "id_number":"02742",
+        "Patient's Age":78.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02743",
+        "BraTS Subject ID":"BraTS-GLI-02743-100",
+        "id_number":"02743",
+        "Patient's Age":63.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Glioma NOS"
+    },
+    {
+        "patient_id":"BraTS-GLI-02744",
+        "BraTS Subject ID":"BraTS-GLI-02744-100",
+        "id_number":"02744",
+        "Patient's Age":69.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Oligodendroglioma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02745",
+        "BraTS Subject ID":"BraTS-GLI-02745-100",
+        "id_number":"02745",
+        "Patient's Age":39.0,
+        "Patient's Sex":"F",
+        "Glioma type ":"Other"
+    },
+    {
+        "patient_id":"BraTS-GLI-02746",
+        "BraTS Subject ID":"BraTS-GLI-02746-100",
+        "id_number":"02746",
+        "Patient's Age":30.0,
+        "Patient's Sex":"F",
+        "Glioma type ":"Oligodendroglioma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02747",
+        "BraTS Subject ID":"BraTS-GLI-02747-100",
+        "id_number":"02747",
+        "Patient's Age":63.0,
+        "Patient's Sex":"F",
+        "Glioma type ":"Glioma NOS"
+    },
+    {
+        "patient_id":"BraTS-GLI-02748",
+        "BraTS Subject ID":"BraTS-GLI-02748-100",
+        "id_number":"02748",
+        "Patient's Age":61.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Astrocytoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02750",
+        "BraTS Subject ID":"BraTS-GLI-02750-100",
+        "id_number":"02750",
+        "Patient's Age":66.0,
+        "Patient's Sex":"F",
+        "Glioma type ":"Glioma NOS"
+    },
+    {
+        "patient_id":"BraTS-GLI-02751",
+        "BraTS Subject ID":"BraTS-GLI-02751-100",
+        "id_number":"02751",
+        "Patient's Age":50.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Glioma NOS"
+    },
+    {
+        "patient_id":"BraTS-GLI-02752",
+        "BraTS Subject ID":"BraTS-GLI-02752-100",
+        "id_number":"02752",
+        "Patient's Age":43.0,
+        "Patient's Sex":"F",
+        "Glioma type ":"Glioma NOS"
+    },
+    {
+        "patient_id":"BraTS-GLI-02753",
+        "BraTS Subject ID":"BraTS-GLI-02753-100",
+        "id_number":"02753",
+        "Patient's Age":69.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Glioma NOS"
+    },
+    {
+        "patient_id":"BraTS-GLI-02754",
+        "BraTS Subject ID":"BraTS-GLI-02754-100",
+        "id_number":"02754",
+        "Patient's Age":66.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02755",
+        "BraTS Subject ID":"BraTS-GLI-02755-100",
+        "id_number":"02755",
+        "Patient's Age":52.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Astrocytoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02756",
+        "BraTS Subject ID":"BraTS-GLI-02756-100",
+        "id_number":"02756",
+        "Patient's Age":45.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02757",
+        "BraTS Subject ID":"BraTS-GLI-02757-100",
+        "id_number":"02757",
+        "Patient's Age":53.0,
+        "Patient's Sex":"F",
+        "Glioma type ":"Other"
+    },
+    {
+        "patient_id":"BraTS-GLI-02758",
+        "BraTS Subject ID":"BraTS-GLI-02758-100",
+        "id_number":"02758",
+        "Patient's Age":51.0,
+        "Patient's Sex":"F",
+        "Glioma type ":"Oligodendroglioma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02759",
+        "BraTS Subject ID":"BraTS-GLI-02759-100",
+        "id_number":"02759",
+        "Patient's Age":46.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Astrocytoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02760",
+        "BraTS Subject ID":"BraTS-GLI-02760-100",
+        "id_number":"02760",
+        "Patient's Age":55.0,
+        "Patient's Sex":"F",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02761",
+        "BraTS Subject ID":"BraTS-GLI-02761-100",
+        "id_number":"02761",
+        "Patient's Age":53.0,
+        "Patient's Sex":"F",
+        "Glioma type ":"Other"
+    },
+    {
+        "patient_id":"BraTS-GLI-02763",
+        "BraTS Subject ID":"BraTS-GLI-02763-100",
+        "id_number":"02763",
+        "Patient's Age":53.0,
+        "Patient's Sex":"F",
+        "Glioma type ":"Astrocytoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02764",
+        "BraTS Subject ID":"BraTS-GLI-02764-100",
+        "id_number":"02764",
+        "Patient's Age":53.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Oligodendroglioma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02765",
+        "BraTS Subject ID":"BraTS-GLI-02765-100",
+        "id_number":"02765",
+        "Patient's Age":70.0,
+        "Patient's Sex":"F",
+        "Glioma type ":"Oligodendroglioma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02766",
+        "BraTS Subject ID":"BraTS-GLI-02766-100",
+        "id_number":"02766",
+        "Patient's Age":67.0,
+        "Patient's Sex":"F",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02767",
+        "BraTS Subject ID":"BraTS-GLI-02767-100",
+        "id_number":"02767",
+        "Patient's Age":49.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Other"
+    },
+    {
+        "patient_id":"BraTS-GLI-02768",
+        "BraTS Subject ID":"BraTS-GLI-02768-100",
+        "id_number":"02768",
+        "Patient's Age":56.0,
+        "Patient's Sex":"F",
+        "Glioma type ":"Astrocytoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02769",
+        "BraTS Subject ID":"BraTS-GLI-02769-100",
+        "id_number":"02769",
+        "Patient's Age":42.0,
+        "Patient's Sex":"F",
+        "Glioma type ":"Glioma NOS"
+    },
+    {
+        "patient_id":"BraTS-GLI-02770",
+        "BraTS Subject ID":"BraTS-GLI-02770-100",
+        "id_number":"02770",
+        "Patient's Age":53.0,
+        "Patient's Sex":"F",
+        "Glioma type ":"Glioma NOS"
+    },
+    {
+        "patient_id":"BraTS-GLI-02771",
+        "BraTS Subject ID":"BraTS-GLI-02771-100",
+        "id_number":"02771",
+        "Patient's Age":49.0,
+        "Patient's Sex":"F",
+        "Glioma type ":"Glioma NOS"
+    },
+    {
+        "patient_id":"BraTS-GLI-02772",
+        "BraTS Subject ID":"BraTS-GLI-02772-100",
+        "id_number":"02772",
+        "Patient's Age":69.0,
+        "Patient's Sex":"F",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02773",
+        "BraTS Subject ID":"BraTS-GLI-02773-100",
+        "id_number":"02773",
+        "Patient's Age":59.0,
+        "Patient's Sex":"F",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02774",
+        "BraTS Subject ID":"BraTS-GLI-02774-100",
+        "id_number":"02774",
+        "Patient's Age":50.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Glioma NOS"
+    },
+    {
+        "patient_id":"BraTS-GLI-02775",
+        "BraTS Subject ID":"BraTS-GLI-02775-100",
+        "id_number":"02775",
+        "Patient's Age":52.0,
+        "Patient's Sex":"F",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02776",
+        "BraTS Subject ID":"BraTS-GLI-02776-100",
+        "id_number":"02776",
+        "Patient's Age":54.0,
+        "Patient's Sex":"F",
+        "Glioma type ":"Oligodendroglioma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02777",
+        "BraTS Subject ID":"BraTS-GLI-02777-100",
+        "id_number":"02777",
+        "Patient's Age":55.0,
+        "Patient's Sex":"F",
+        "Glioma type ":"Glioma NOS"
+    },
+    {
+        "patient_id":"BraTS-GLI-02778",
+        "BraTS Subject ID":"BraTS-GLI-02778-100",
+        "id_number":"02778",
+        "Patient's Age":26.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Astrocytoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02779",
+        "BraTS Subject ID":"BraTS-GLI-02779-100",
+        "id_number":"02779",
+        "Patient's Age":48.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Astrocytoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02780",
+        "BraTS Subject ID":"BraTS-GLI-02780-100",
+        "id_number":"02780",
+        "Patient's Age":49.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Oligodendroglioma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02781",
+        "BraTS Subject ID":"BraTS-GLI-02781-100",
+        "id_number":"02781",
+        "Patient's Age":67.0,
+        "Patient's Sex":"F",
+        "Glioma type ":"Glioma NOS"
+    },
+    {
+        "patient_id":"BraTS-GLI-02782",
+        "BraTS Subject ID":"BraTS-GLI-02782-100",
+        "id_number":"02782",
+        "Patient's Age":61.0,
+        "Patient's Sex":"F",
+        "Glioma type ":"Oligodendroglioma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02786",
+        "BraTS Subject ID":"BraTS-GLI-02786-100",
+        "id_number":"02786",
+        "Patient's Age":51.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Oligodendroglioma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02787",
+        "BraTS Subject ID":"BraTS-GLI-02787-100",
+        "id_number":"02787",
+        "Patient's Age":44.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Astrocytoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02788",
+        "BraTS Subject ID":"BraTS-GLI-02788-100",
+        "id_number":"02788",
+        "Patient's Age":34.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Glioma NOS"
+    },
+    {
+        "patient_id":"BraTS-GLI-02789",
+        "BraTS Subject ID":"BraTS-GLI-02789-100",
+        "id_number":"02789",
+        "Patient's Age":28.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Oligodendroglioma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02790",
+        "BraTS Subject ID":"BraTS-GLI-02790-100",
+        "id_number":"02790",
+        "Patient's Age":54.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Oligodendroglioma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02791",
+        "BraTS Subject ID":"BraTS-GLI-02791-100",
+        "id_number":"02791",
+        "Patient's Age":47.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Glioma NOS"
+    },
+    {
+        "patient_id":"BraTS-GLI-02792",
+        "BraTS Subject ID":"BraTS-GLI-02792-100",
+        "id_number":"02792",
+        "Patient's Age":63.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Oligodendroglioma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02793",
+        "BraTS Subject ID":"BraTS-GLI-02793-100",
+        "id_number":"02793",
+        "Patient's Age":49.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Glioma NOS"
+    },
+    {
+        "patient_id":"BraTS-GLI-02794",
+        "BraTS Subject ID":"BraTS-GLI-02794-100",
+        "id_number":"02794",
+        "Patient's Age":62.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Glioma NOS"
+    },
+    {
+        "patient_id":"BraTS-GLI-02795",
+        "BraTS Subject ID":"BraTS-GLI-02795-100",
+        "id_number":"02795",
+        "Patient's Age":52.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Oligodendroglioma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02796",
+        "BraTS Subject ID":"BraTS-GLI-02796-100",
+        "id_number":"02796",
+        "Patient's Age":44.0,
+        "Patient's Sex":"F",
+        "Glioma type ":"Glioma NOS"
+    },
+    {
+        "patient_id":"BraTS-GLI-02797",
+        "BraTS Subject ID":"BraTS-GLI-02797-100",
+        "id_number":"02797",
+        "Patient's Age":73.0,
+        "Patient's Sex":"F",
+        "Glioma type ":"Glioma NOS"
+    },
+    {
+        "patient_id":"BraTS-GLI-02798",
+        "BraTS Subject ID":"BraTS-GLI-02798-100",
+        "id_number":"02798",
+        "Patient's Age":42.0,
+        "Patient's Sex":"F",
+        "Glioma type ":"Oligodendroglioma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02799",
+        "BraTS Subject ID":"BraTS-GLI-02799-100",
+        "id_number":"02799",
+        "Patient's Age":59.0,
+        "Patient's Sex":"F",
+        "Glioma type ":"Glioma NOS"
+    },
+    {
+        "patient_id":"BraTS-GLI-02800",
+        "BraTS Subject ID":"BraTS-GLI-02800-100",
+        "id_number":"02800",
+        "Patient's Age":46.0,
+        "Patient's Sex":"F",
+        "Glioma type ":"Oligodendroglioma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02801",
+        "BraTS Subject ID":"BraTS-GLI-02801-100",
+        "id_number":"02801",
+        "Patient's Age":44.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Glioma NOS"
+    },
+    {
+        "patient_id":"BraTS-GLI-02802",
+        "BraTS Subject ID":"BraTS-GLI-02802-100",
+        "id_number":"02802",
+        "Patient's Age":49.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Glioma NOS"
+    },
+    {
+        "patient_id":"BraTS-GLI-02803",
+        "BraTS Subject ID":"BraTS-GLI-02803-100",
+        "id_number":"02803",
+        "Patient's Age":65.0,
+        "Patient's Sex":"F",
+        "Glioma type ":"Oligodendroglioma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02804",
+        "BraTS Subject ID":"BraTS-GLI-02804-100",
+        "id_number":"02804",
+        "Patient's Age":55.0,
+        "Patient's Sex":"F",
+        "Glioma type ":"Glioma NOS"
+    },
+    {
+        "patient_id":"BraTS-GLI-02805",
+        "BraTS Subject ID":"BraTS-GLI-02805-100",
+        "id_number":"02805",
+        "Patient's Age":55.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Glioma NOS"
+    },
+    {
+        "patient_id":"BraTS-GLI-02806",
+        "BraTS Subject ID":"BraTS-GLI-02806-100",
+        "id_number":"02806",
+        "Patient's Age":65.0,
+        "Patient's Sex":"F",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02808",
+        "BraTS Subject ID":"BraTS-GLI-02808-100",
+        "id_number":"02808",
+        "Patient's Age":43.0,
+        "Patient's Sex":"F",
+        "Glioma type ":"Oligodendroglioma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02809",
+        "BraTS Subject ID":"BraTS-GLI-02809-100",
+        "id_number":"02809",
+        "Patient's Age":35.0,
+        "Patient's Sex":"F",
+        "Glioma type ":"Glioma NOS"
+    },
+    {
+        "patient_id":"BraTS-GLI-02810",
+        "BraTS Subject ID":"BraTS-GLI-02810-100",
+        "id_number":"02810",
+        "Patient's Age":56.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Glioma NOS"
+    },
+    {
+        "patient_id":"BraTS-GLI-02813",
+        "BraTS Subject ID":"BraTS-GLI-02813-100",
+        "id_number":"02813",
+        "Patient's Age":38.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Oligodendroglioma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02816",
+        "BraTS Subject ID":"BraTS-GLI-02816-100",
+        "id_number":"02816",
+        "Patient's Age":53.0,
+        "Patient's Sex":"F",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02817",
+        "BraTS Subject ID":"BraTS-GLI-02817-100",
+        "id_number":"02817",
+        "Patient's Age":67.0,
+        "Patient's Sex":"F",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02818",
+        "BraTS Subject ID":"BraTS-GLI-02818-100",
+        "id_number":"02818",
+        "Patient's Age":47.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Astrocytoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02819",
+        "BraTS Subject ID":"BraTS-GLI-02819-100",
+        "id_number":"02819",
+        "Patient's Age":53.0,
+        "Patient's Sex":"F",
+        "Glioma type ":"Astrocytoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02820",
+        "BraTS Subject ID":"BraTS-GLI-02820-100",
+        "id_number":"02820",
+        "Patient's Age":57.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Astrocytoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02821",
+        "BraTS Subject ID":"BraTS-GLI-02821-100",
+        "id_number":"02821",
+        "Patient's Age":70.0,
+        "Patient's Sex":"F",
+        "Glioma type ":"Other"
+    },
+    {
+        "patient_id":"BraTS-GLI-02822",
+        "BraTS Subject ID":"BraTS-GLI-02822-100",
+        "id_number":"02822",
+        "Patient's Age":46.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Oligodendroglioma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02823",
+        "BraTS Subject ID":"BraTS-GLI-02823-100",
+        "id_number":"02823",
+        "Patient's Age":51.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Astrocytoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02824",
+        "BraTS Subject ID":"BraTS-GLI-02824-100",
+        "id_number":"02824",
+        "Patient's Age":55.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Astrocytoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02826",
+        "BraTS Subject ID":"BraTS-GLI-02826-100",
+        "id_number":"02826",
+        "Patient's Age":56.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02827",
+        "BraTS Subject ID":"BraTS-GLI-02827-100",
+        "id_number":"02827",
+        "Patient's Age":48.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Glioma NOS"
+    },
+    {
+        "patient_id":"BraTS-GLI-02828",
+        "BraTS Subject ID":"BraTS-GLI-02828-100",
+        "id_number":"02828",
+        "Patient's Age":26.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Glioma NOS"
+    },
+    {
+        "patient_id":"BraTS-GLI-02829",
+        "BraTS Subject ID":"BraTS-GLI-02829-100",
+        "id_number":"02829",
+        "Patient's Age":57.0,
+        "Patient's Sex":"F",
+        "Glioma type ":"Glioma NOS"
+    },
+    {
+        "patient_id":"BraTS-GLI-02830",
+        "BraTS Subject ID":"BraTS-GLI-02830-100",
+        "id_number":"02830",
+        "Patient's Age":58.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Oligodendroglioma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02831",
+        "BraTS Subject ID":"BraTS-GLI-02831-100",
+        "id_number":"02831",
+        "Patient's Age":46.0,
+        "Patient's Sex":"F",
+        "Glioma type ":"Glioma NOS"
+    },
+    {
+        "patient_id":"BraTS-GLI-02832",
+        "BraTS Subject ID":"BraTS-GLI-02832-100",
+        "id_number":"02832",
+        "Patient's Age":49.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Astrocytoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02833",
+        "BraTS Subject ID":"BraTS-GLI-02833-100",
+        "id_number":"02833",
+        "Patient's Age":51.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Astrocytoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02834",
+        "BraTS Subject ID":"BraTS-GLI-02834-100",
+        "id_number":"02834",
+        "Patient's Age":72.0,
+        "Patient's Sex":"F",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02835",
+        "BraTS Subject ID":"BraTS-GLI-02835-100",
+        "id_number":"02835",
+        "Patient's Age":31.0,
+        "Patient's Sex":"F",
+        "Glioma type ":"Glioma NOS"
+    },
+    {
+        "patient_id":"BraTS-GLI-02836",
+        "BraTS Subject ID":"BraTS-GLI-02836-100",
+        "id_number":"02836",
+        "Patient's Age":36.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Oligodendroglioma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02837",
+        "BraTS Subject ID":"BraTS-GLI-02837-100",
+        "id_number":"02837",
+        "Patient's Age":65.0,
+        "Patient's Sex":"F",
+        "Glioma type ":"Glioma NOS"
+    },
+    {
+        "patient_id":"BraTS-GLI-02838",
+        "BraTS Subject ID":"BraTS-GLI-02838-100",
+        "id_number":"02838",
+        "Patient's Age":44.0,
+        "Patient's Sex":"F",
+        "Glioma type ":"Astrocytoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02839",
+        "BraTS Subject ID":"BraTS-GLI-02839-100",
+        "id_number":"02839",
+        "Patient's Age":32.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Astrocytoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02840",
+        "BraTS Subject ID":"BraTS-GLI-02840-100",
+        "id_number":"02840",
+        "Patient's Age":35.0,
+        "Patient's Sex":"F",
+        "Glioma type ":"Glioma NOS"
+    },
+    {
+        "patient_id":"BraTS-GLI-02842",
+        "BraTS Subject ID":"BraTS-GLI-02842-100",
+        "id_number":"02842",
+        "Patient's Age":57.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Oligodendroglioma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02843",
+        "BraTS Subject ID":"BraTS-GLI-02843-100",
+        "id_number":"02843",
+        "Patient's Age":65.0,
+        "Patient's Sex":"F",
+        "Glioma type ":"Oligodendroglioma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02844",
+        "BraTS Subject ID":"BraTS-GLI-02844-100",
+        "id_number":"02844",
+        "Patient's Age":46.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Astrocytoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02845",
+        "BraTS Subject ID":"BraTS-GLI-02845-100",
+        "id_number":"02845",
+        "Patient's Age":48.0,
+        "Patient's Sex":"F",
+        "Glioma type ":"Glioma NOS"
+    },
+    {
+        "patient_id":"BraTS-GLI-02846",
+        "BraTS Subject ID":"BraTS-GLI-02846-100",
+        "id_number":"02846",
+        "Patient's Age":62.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Astrocytoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02847",
+        "BraTS Subject ID":"BraTS-GLI-02847-100",
+        "id_number":"02847",
+        "Patient's Age":34.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Glioma NOS"
+    },
+    {
+        "patient_id":"BraTS-GLI-02848",
+        "BraTS Subject ID":"BraTS-GLI-02848-100",
+        "id_number":"02848",
+        "Patient's Age":45.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Oligodendroglioma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02849",
+        "BraTS Subject ID":"BraTS-GLI-02849-100",
+        "id_number":"02849",
+        "Patient's Age":49.0,
+        "Patient's Sex":"F",
+        "Glioma type ":"Oligodendroglioma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02851",
+        "BraTS Subject ID":"BraTS-GLI-02851-100",
+        "id_number":"02851",
+        "Patient's Age":55.0,
+        "Patient's Sex":"F",
+        "Glioma type ":"Astrocytoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02852",
+        "BraTS Subject ID":"BraTS-GLI-02852-100",
+        "id_number":"02852",
+        "Patient's Age":38.0,
+        "Patient's Sex":"F",
+        "Glioma type ":"Astrocytoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02854",
+        "BraTS Subject ID":"BraTS-GLI-02854-100",
+        "id_number":"02854",
+        "Patient's Age":37.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Astrocytoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02855",
+        "BraTS Subject ID":"BraTS-GLI-02855-100",
+        "id_number":"02855",
+        "Patient's Age":37.0,
+        "Patient's Sex":"F",
+        "Glioma type ":"Astrocytoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02856",
+        "BraTS Subject ID":"BraTS-GLI-02856-100",
+        "id_number":"02856",
+        "Patient's Age":62.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Oligodendroglioma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02857",
+        "BraTS Subject ID":"BraTS-GLI-02857-100",
+        "id_number":"02857",
+        "Patient's Age":72.0,
+        "Patient's Sex":"F",
+        "Glioma type ":"Glioma NOS"
+    },
+    {
+        "patient_id":"BraTS-GLI-02858",
+        "BraTS Subject ID":"BraTS-GLI-02858-100",
+        "id_number":"02858",
+        "Patient's Age":55.0,
+        "Patient's Sex":"F",
+        "Glioma type ":"Oligodendroglioma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02859",
+        "BraTS Subject ID":"BraTS-GLI-02859-100",
+        "id_number":"02859",
+        "Patient's Age":68.0,
+        "Patient's Sex":"F",
+        "Glioma type ":"Oligodendroglioma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02860",
+        "BraTS Subject ID":"BraTS-GLI-02860-100",
+        "id_number":"02860",
+        "Patient's Age":50.0,
+        "Patient's Sex":"F",
+        "Glioma type ":"Oligodendroglioma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02861",
+        "BraTS Subject ID":"BraTS-GLI-02861-100",
+        "id_number":"02861",
+        "Patient's Age":32.0,
+        "Patient's Sex":"F",
+        "Glioma type ":"Oligodendroglioma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02862",
+        "BraTS Subject ID":"BraTS-GLI-02862-100",
+        "id_number":"02862",
+        "Patient's Age":53.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Oligodendroglioma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02863",
+        "BraTS Subject ID":"BraTS-GLI-02863-100",
+        "id_number":"02863",
+        "Patient's Age":37.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Astrocytoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02864",
+        "BraTS Subject ID":"BraTS-GLI-02864-100",
+        "id_number":"02864",
+        "Patient's Age":77.0,
+        "Patient's Sex":"F",
+        "Glioma type ":"Glioma NOS"
+    },
+    {
+        "patient_id":"BraTS-GLI-02865",
+        "BraTS Subject ID":"BraTS-GLI-02865-100",
+        "id_number":"02865",
+        "Patient's Age":40.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Oligodendroglioma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02866",
+        "BraTS Subject ID":"BraTS-GLI-02866-100",
+        "id_number":"02866",
+        "Patient's Age":29.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Astrocytoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02867",
+        "BraTS Subject ID":"BraTS-GLI-02867-100",
+        "id_number":"02867",
+        "Patient's Age":38.0,
+        "Patient's Sex":"F",
+        "Glioma type ":"Oligodendroglioma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02868",
+        "BraTS Subject ID":"BraTS-GLI-02868-100",
+        "id_number":"02868",
+        "Patient's Age":67.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02869",
+        "BraTS Subject ID":"BraTS-GLI-02869-100",
+        "id_number":"02869",
+        "Patient's Age":73.0,
+        "Patient's Sex":"F",
+        "Glioma type ":"Oligodendroglioma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02870",
+        "BraTS Subject ID":"BraTS-GLI-02870-100",
+        "id_number":"02870",
+        "Patient's Age":38.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Oligodendroglioma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02871",
+        "BraTS Subject ID":"BraTS-GLI-02871-100",
+        "id_number":"02871",
+        "Patient's Age":47.0,
+        "Patient's Sex":"F",
+        "Glioma type ":"Oligodendroglioma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02872",
+        "BraTS Subject ID":"BraTS-GLI-02872-100",
+        "id_number":"02872",
+        "Patient's Age":72.0,
+        "Patient's Sex":"F",
+        "Glioma type ":"Glioma NOS"
+    },
+    {
+        "patient_id":"BraTS-GLI-02873",
+        "BraTS Subject ID":"BraTS-GLI-02873-100",
+        "id_number":"02873",
+        "Patient's Age":36.0,
+        "Patient's Sex":"F",
+        "Glioma type ":"Oligodendroglioma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02874",
+        "BraTS Subject ID":"BraTS-GLI-02874-100",
+        "id_number":"02874",
+        "Patient's Age":31.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Astrocytoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02875",
+        "BraTS Subject ID":"BraTS-GLI-02875-100",
+        "id_number":"02875",
+        "Patient's Age":60.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Oligodendroglioma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02876",
+        "BraTS Subject ID":"BraTS-GLI-02876-100",
+        "id_number":"02876",
+        "Patient's Age":61.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Glioma NOS"
+    },
+    {
+        "patient_id":"BraTS-GLI-02877",
+        "BraTS Subject ID":"BraTS-GLI-02877-100",
+        "id_number":"02877",
+        "Patient's Age":30.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Astrocytoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02878",
+        "BraTS Subject ID":"BraTS-GLI-02878-100",
+        "id_number":"02878",
+        "Patient's Age":28.0,
+        "Patient's Sex":"F",
+        "Glioma type ":"Astrocytoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02879",
+        "BraTS Subject ID":"BraTS-GLI-02879-100",
+        "id_number":"02879",
+        "Patient's Age":32.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Astrocytoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02880",
+        "BraTS Subject ID":"BraTS-GLI-02880-100",
+        "id_number":"02880",
+        "Patient's Age":57.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Glioma NOS"
+    },
+    {
+        "patient_id":"BraTS-GLI-02881",
+        "BraTS Subject ID":"BraTS-GLI-02881-100",
+        "id_number":"02881",
+        "Patient's Age":46.0,
+        "Patient's Sex":"F",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02882",
+        "BraTS Subject ID":"BraTS-GLI-02882-100",
+        "id_number":"02882",
+        "Patient's Age":30.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Astrocytoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02883",
+        "BraTS Subject ID":"BraTS-GLI-02883-100",
+        "id_number":"02883",
+        "Patient's Age":44.0,
+        "Patient's Sex":"F",
+        "Glioma type ":"Astrocytoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02884",
+        "BraTS Subject ID":"BraTS-GLI-02884-100",
+        "id_number":"02884",
+        "Patient's Age":51.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Glioma NOS"
+    },
+    {
+        "patient_id":"BraTS-GLI-02885",
+        "BraTS Subject ID":"BraTS-GLI-02885-100",
+        "id_number":"02885",
+        "Patient's Age":22.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Other"
+    },
+    {
+        "patient_id":"BraTS-GLI-02886",
+        "BraTS Subject ID":"BraTS-GLI-02886-100",
+        "id_number":"02886",
+        "Patient's Age":45.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Oligodendroglioma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02887",
+        "BraTS Subject ID":"BraTS-GLI-02887-100",
+        "id_number":"02887",
+        "Patient's Age":31.0,
+        "Patient's Sex":"F",
+        "Glioma type ":"Astrocytoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02888",
+        "BraTS Subject ID":"BraTS-GLI-02888-100",
+        "id_number":"02888",
+        "Patient's Age":33.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Astrocytoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02889",
+        "BraTS Subject ID":"BraTS-GLI-02889-100",
+        "id_number":"02889",
+        "Patient's Age":27.0,
+        "Patient's Sex":"F",
+        "Glioma type ":"Astrocytoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02890",
+        "BraTS Subject ID":"BraTS-GLI-02890-100",
+        "id_number":"02890",
+        "Patient's Age":45.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Oligodendroglioma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02891",
+        "BraTS Subject ID":"BraTS-GLI-02891-100",
+        "id_number":"02891",
+        "Patient's Age":55.0,
+        "Patient's Sex":"F",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02892",
+        "BraTS Subject ID":"BraTS-GLI-02892-100",
+        "id_number":"02892",
+        "Patient's Age":46.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Astrocytoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02893",
+        "BraTS Subject ID":"BraTS-GLI-02893-100",
+        "id_number":"02893",
+        "Patient's Age":30.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Astrocytoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02894",
+        "BraTS Subject ID":"BraTS-GLI-02894-100",
+        "id_number":"02894",
+        "Patient's Age":43.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Glioma NOS"
+    },
+    {
+        "patient_id":"BraTS-GLI-02895",
+        "BraTS Subject ID":"BraTS-GLI-02895-100",
+        "id_number":"02895",
+        "Patient's Age":30.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Oligodendroglioma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02896",
+        "BraTS Subject ID":"BraTS-GLI-02896-100",
+        "id_number":"02896",
+        "Patient's Age":70.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02897",
+        "BraTS Subject ID":"BraTS-GLI-02897-100",
+        "id_number":"02897",
+        "Patient's Age":38.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Astrocytoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02898",
+        "BraTS Subject ID":"BraTS-GLI-02898-100",
+        "id_number":"02898",
+        "Patient's Age":71.0,
+        "Patient's Sex":"F",
+        "Glioma type ":"Glioma NOS"
+    },
+    {
+        "patient_id":"BraTS-GLI-02899",
+        "BraTS Subject ID":"BraTS-GLI-02899-100",
+        "id_number":"02899",
+        "Patient's Age":57.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Oligodendroglioma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02900",
+        "BraTS Subject ID":"BraTS-GLI-02900-100",
+        "id_number":"02900",
+        "Patient's Age":32.0,
+        "Patient's Sex":"F",
+        "Glioma type ":"Astrocytoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02901",
+        "BraTS Subject ID":"BraTS-GLI-02901-100",
+        "id_number":"02901",
+        "Patient's Age":30.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Astrocytoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02902",
+        "BraTS Subject ID":"BraTS-GLI-02902-100",
+        "id_number":"02902",
+        "Patient's Age":35.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Astrocytoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02903",
+        "BraTS Subject ID":"BraTS-GLI-02903-100",
+        "id_number":"02903",
+        "Patient's Age":61.0,
+        "Patient's Sex":"F",
+        "Glioma type ":"Oligodendroglioma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02904",
+        "BraTS Subject ID":"BraTS-GLI-02904-100",
+        "id_number":"02904",
+        "Patient's Age":38.0,
+        "Patient's Sex":"F",
+        "Glioma type ":"Astrocytoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02905",
+        "BraTS Subject ID":"BraTS-GLI-02905-100",
+        "id_number":"02905",
+        "Patient's Age":61.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02907",
+        "BraTS Subject ID":"BraTS-GLI-02907-100",
+        "id_number":"02907",
+        "Patient's Age":53.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02909",
+        "BraTS Subject ID":"BraTS-GLI-02909-100",
+        "id_number":"02909",
+        "Patient's Age":63.0,
+        "Patient's Sex":"F",
+        "Glioma type ":"Oligodendroglioma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02910",
+        "BraTS Subject ID":"BraTS-GLI-02910-100",
+        "id_number":"02910",
+        "Patient's Age":41.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Astrocytoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02911",
+        "BraTS Subject ID":"BraTS-GLI-02911-100",
+        "id_number":"02911",
+        "Patient's Age":47.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Oligodendroglioma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02912",
+        "BraTS Subject ID":"BraTS-GLI-02912-100",
+        "id_number":"02912",
+        "Patient's Age":31.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Glioma NOS"
+    },
+    {
+        "patient_id":"BraTS-GLI-02914",
+        "BraTS Subject ID":"BraTS-GLI-02914-100",
+        "id_number":"02914",
+        "Patient's Age":27.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Other"
+    },
+    {
+        "patient_id":"BraTS-GLI-02915",
+        "BraTS Subject ID":"BraTS-GLI-02915-100",
+        "id_number":"02915",
+        "Patient's Age":48.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Astrocytoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02916",
+        "BraTS Subject ID":"BraTS-GLI-02916-100",
+        "id_number":"02916",
+        "Patient's Age":32.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Astrocytoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02917",
+        "BraTS Subject ID":"BraTS-GLI-02917-100",
+        "id_number":"02917",
+        "Patient's Age":72.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02918",
+        "BraTS Subject ID":"BraTS-GLI-02918-100",
+        "id_number":"02918",
+        "Patient's Age":60.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Oligodendroglioma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02919",
+        "BraTS Subject ID":"BraTS-GLI-02919-100",
+        "id_number":"02919",
+        "Patient's Age":35.0,
+        "Patient's Sex":"F",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02920",
+        "BraTS Subject ID":"BraTS-GLI-02920-100",
+        "id_number":"02920",
+        "Patient's Age":30.0,
+        "Patient's Sex":"F",
+        "Glioma type ":"Glioma NOS"
+    },
+    {
+        "patient_id":"BraTS-GLI-02921",
+        "BraTS Subject ID":"BraTS-GLI-02921-100",
+        "id_number":"02921",
+        "Patient's Age":53.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Other"
+    },
+    {
+        "patient_id":"BraTS-GLI-02922",
+        "BraTS Subject ID":"BraTS-GLI-02922-100",
+        "id_number":"02922",
+        "Patient's Age":58.0,
+        "Patient's Sex":"F",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02923",
+        "BraTS Subject ID":"BraTS-GLI-02923-100",
+        "id_number":"02923",
+        "Patient's Age":26.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Astrocytoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02924",
+        "BraTS Subject ID":"BraTS-GLI-02924-100",
+        "id_number":"02924",
+        "Patient's Age":66.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Other"
+    },
+    {
+        "patient_id":"BraTS-GLI-02925",
+        "BraTS Subject ID":"BraTS-GLI-02925-100",
+        "id_number":"02925",
+        "Patient's Age":70.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02926",
+        "BraTS Subject ID":"BraTS-GLI-02926-100",
+        "id_number":"02926",
+        "Patient's Age":60.0,
+        "Patient's Sex":"F",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02927",
+        "BraTS Subject ID":"BraTS-GLI-02927-100",
+        "id_number":"02927",
+        "Patient's Age":40.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02928",
+        "BraTS Subject ID":"BraTS-GLI-02928-100",
+        "id_number":"02928",
+        "Patient's Age":36.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Astrocytoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02929",
+        "BraTS Subject ID":"BraTS-GLI-02929-100",
+        "id_number":"02929",
+        "Patient's Age":51.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Glioma NOS"
+    },
+    {
+        "patient_id":"BraTS-GLI-02930",
+        "BraTS Subject ID":"BraTS-GLI-02930-100",
+        "id_number":"02930",
+        "Patient's Age":31.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Glioma NOS"
+    },
+    {
+        "patient_id":"BraTS-GLI-02931",
+        "BraTS Subject ID":"BraTS-GLI-02931-100",
+        "id_number":"02931",
+        "Patient's Age":82.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Glioma NOS"
+    },
+    {
+        "patient_id":"BraTS-GLI-02932",
+        "BraTS Subject ID":"BraTS-GLI-02932-100",
+        "id_number":"02932",
+        "Patient's Age":51.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Oligodendroglioma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02933",
+        "BraTS Subject ID":"BraTS-GLI-02933-100",
+        "id_number":"02933",
+        "Patient's Age":40.0,
+        "Patient's Sex":"F",
+        "Glioma type ":"Oligodendroglioma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02934",
+        "BraTS Subject ID":"BraTS-GLI-02934-100",
+        "id_number":"02934",
+        "Patient's Age":32.0,
+        "Patient's Sex":"F",
+        "Glioma type ":"Astrocytoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02937",
+        "BraTS Subject ID":"BraTS-GLI-02937-100",
+        "id_number":"02937",
+        "Patient's Age":45.0,
+        "Patient's Sex":"F",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02938",
+        "BraTS Subject ID":"BraTS-GLI-02938-100",
+        "id_number":"02938",
+        "Patient's Age":27.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Astrocytoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02939",
+        "BraTS Subject ID":"BraTS-GLI-02939-100",
+        "id_number":"02939",
+        "Patient's Age":82.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Glioma NOS"
+    },
+    {
+        "patient_id":"BraTS-GLI-02940",
+        "BraTS Subject ID":"BraTS-GLI-02940-100",
+        "id_number":"02940",
+        "Patient's Age":62.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Glioma NOS"
+    },
+    {
+        "patient_id":"BraTS-GLI-02941",
+        "BraTS Subject ID":"BraTS-GLI-02941-100",
+        "id_number":"02941",
+        "Patient's Age":45.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02943",
+        "BraTS Subject ID":"BraTS-GLI-02943-100",
+        "id_number":"02943",
+        "Patient's Age":34.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Astrocytoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02944",
+        "BraTS Subject ID":"BraTS-GLI-02944-100",
+        "id_number":"02944",
+        "Patient's Age":36.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Astrocytoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02946",
+        "BraTS Subject ID":"BraTS-GLI-02946-100",
+        "id_number":"02946",
+        "Patient's Age":75.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Astrocytoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02947",
+        "BraTS Subject ID":"BraTS-GLI-02947-100",
+        "id_number":"02947",
+        "Patient's Age":53.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02948",
+        "BraTS Subject ID":"BraTS-GLI-02948-100",
+        "id_number":"02948",
+        "Patient's Age":28.0,
+        "Patient's Sex":"F",
+        "Glioma type ":"Glioma NOS"
+    },
+    {
+        "patient_id":"BraTS-GLI-02949",
+        "BraTS Subject ID":"BraTS-GLI-02949-100",
+        "id_number":"02949",
+        "Patient's Age":47.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Astrocytoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02950",
+        "BraTS Subject ID":"BraTS-GLI-02950-100",
+        "id_number":"02950",
+        "Patient's Age":58.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Astrocytoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02952",
+        "BraTS Subject ID":"BraTS-GLI-02952-100",
+        "id_number":"02952",
+        "Patient's Age":36.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Astrocytoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02953",
+        "BraTS Subject ID":"BraTS-GLI-02953-100",
+        "id_number":"02953",
+        "Patient's Age":32.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Astrocytoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02954",
+        "BraTS Subject ID":"BraTS-GLI-02954-100",
+        "id_number":"02954",
+        "Patient's Age":38.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Astrocytoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02955",
+        "BraTS Subject ID":"BraTS-GLI-02955-100",
+        "id_number":"02955",
+        "Patient's Age":55.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02957",
+        "BraTS Subject ID":"BraTS-GLI-02957-100",
+        "id_number":"02957",
+        "Patient's Age":33.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Astrocytoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02958",
+        "BraTS Subject ID":"BraTS-GLI-02958-100",
+        "id_number":"02958",
+        "Patient's Age":75.0,
+        "Patient's Sex":"F",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02959",
+        "BraTS Subject ID":"BraTS-GLI-02959-100",
+        "id_number":"02959",
+        "Patient's Age":64.0,
+        "Patient's Sex":"F",
+        "Glioma type ":"Glioma NOS"
+    },
+    {
+        "patient_id":"BraTS-GLI-02960",
+        "BraTS Subject ID":"BraTS-GLI-02960-100",
+        "id_number":"02960",
+        "Patient's Age":57.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02961",
+        "BraTS Subject ID":"BraTS-GLI-02961-100",
+        "id_number":"02961",
+        "Patient's Age":66.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02962",
+        "BraTS Subject ID":"BraTS-GLI-02962-100",
+        "id_number":"02962",
+        "Patient's Age":66.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02965",
+        "BraTS Subject ID":"BraTS-GLI-02965-100",
+        "id_number":"02965",
+        "Patient's Age":61.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Glioma NOS"
+    },
+    {
+        "patient_id":"BraTS-GLI-02967",
+        "BraTS Subject ID":"BraTS-GLI-02967-100",
+        "id_number":"02967",
+        "Patient's Age":48.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02968",
+        "BraTS Subject ID":"BraTS-GLI-02968-100",
+        "id_number":"02968",
+        "Patient's Age":53.0,
+        "Patient's Sex":"F",
+        "Glioma type ":"Glioma NOS"
+    },
+    {
+        "patient_id":"BraTS-GLI-02969",
+        "BraTS Subject ID":"BraTS-GLI-02969-100",
+        "id_number":"02969",
+        "Patient's Age":54.0,
+        "Patient's Sex":"F",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02970",
+        "BraTS Subject ID":"BraTS-GLI-02970-100",
+        "id_number":"02970",
+        "Patient's Age":38.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Oligodendroglioma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02972",
+        "BraTS Subject ID":"BraTS-GLI-02972-100",
+        "id_number":"02972",
+        "Patient's Age":57.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02973",
+        "BraTS Subject ID":"BraTS-GLI-02973-100",
+        "id_number":"02973",
+        "Patient's Age":62.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Glioma NOS"
+    },
+    {
+        "patient_id":"BraTS-GLI-02976",
+        "BraTS Subject ID":"BraTS-GLI-02976-100",
+        "id_number":"02976",
+        "Patient's Age":54.0,
+        "Patient's Sex":"F",
+        "Glioma type ":"Astrocytoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02977",
+        "BraTS Subject ID":"BraTS-GLI-02977-100",
+        "id_number":"02977",
+        "Patient's Age":47.0,
+        "Patient's Sex":"F",
+        "Glioma type ":"Oligodendroglioma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02978",
+        "BraTS Subject ID":"BraTS-GLI-02978-100",
+        "id_number":"02978",
+        "Patient's Age":68.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Other"
+    },
+    {
+        "patient_id":"BraTS-GLI-02980",
+        "BraTS Subject ID":"BraTS-GLI-02980-100",
+        "id_number":"02980",
+        "Patient's Age":52.0,
+        "Patient's Sex":"F",
+        "Glioma type ":"Oligodendroglioma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02981",
+        "BraTS Subject ID":"BraTS-GLI-02981-100",
+        "id_number":"02981",
+        "Patient's Age":34.0,
+        "Patient's Sex":"F",
+        "Glioma type ":"Oligodendroglioma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02982",
+        "BraTS Subject ID":"BraTS-GLI-02982-100",
+        "id_number":"02982",
+        "Patient's Age":32.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Astrocytoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02983",
+        "BraTS Subject ID":"BraTS-GLI-02983-100",
+        "id_number":"02983",
+        "Patient's Age":53.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Glioma NOS"
+    },
+    {
+        "patient_id":"BraTS-GLI-02984",
+        "BraTS Subject ID":"BraTS-GLI-02984-100",
+        "id_number":"02984",
+        "Patient's Age":72.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Glioma NOS"
+    },
+    {
+        "patient_id":"BraTS-GLI-02985",
+        "BraTS Subject ID":"BraTS-GLI-02985-100",
+        "id_number":"02985",
+        "Patient's Age":44.0,
+        "Patient's Sex":"F",
+        "Glioma type ":"Astrocytoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02987",
+        "BraTS Subject ID":"BraTS-GLI-02987-100",
+        "id_number":"02987",
+        "Patient's Age":56.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02988",
+        "BraTS Subject ID":"BraTS-GLI-02988-100",
+        "id_number":"02988",
+        "Patient's Age":40.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Oligodendroglioma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02989",
+        "BraTS Subject ID":"BraTS-GLI-02989-100",
+        "id_number":"02989",
+        "Patient's Age":38.0,
+        "Patient's Sex":"F",
+        "Glioma type ":"Astrocytoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02991",
+        "BraTS Subject ID":"BraTS-GLI-02991-100",
+        "id_number":"02991",
+        "Patient's Age":21.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02992",
+        "BraTS Subject ID":"BraTS-GLI-02992-100",
+        "id_number":"02992",
+        "Patient's Age":39.0,
+        "Patient's Sex":"F",
+        "Glioma type ":"Oligodendroglioma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02993",
+        "BraTS Subject ID":"BraTS-GLI-02993-100",
+        "id_number":"02993",
+        "Patient's Age":55.0,
+        "Patient's Sex":"F",
+        "Glioma type ":"Oligodendroglioma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02994",
+        "BraTS Subject ID":"BraTS-GLI-02994-100",
+        "id_number":"02994",
+        "Patient's Age":62.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Oligodendroglioma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02995",
+        "BraTS Subject ID":"BraTS-GLI-02995-100",
+        "id_number":"02995",
+        "Patient's Age":39.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02996",
+        "BraTS Subject ID":"BraTS-GLI-02996-100",
+        "id_number":"02996",
+        "Patient's Age":62.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02997",
+        "BraTS Subject ID":"BraTS-GLI-02997-100",
+        "id_number":"02997",
+        "Patient's Age":51.0,
+        "Patient's Sex":"F",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-02999",
+        "BraTS Subject ID":"BraTS-GLI-02999-100",
+        "id_number":"02999",
+        "Patient's Age":71.0,
+        "Patient's Sex":"F",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-03000",
+        "BraTS Subject ID":"BraTS-GLI-03000-100",
+        "id_number":"03000",
+        "Patient's Age":54.0,
+        "Patient's Sex":"F",
+        "Glioma type ":"Glioma NOS"
+    },
+    {
+        "patient_id":"BraTS-GLI-03001",
+        "BraTS Subject ID":"BraTS-GLI-03001-100",
+        "id_number":"03001",
+        "Patient's Age":77.0,
+        "Patient's Sex":"F",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-03005",
+        "BraTS Subject ID":"BraTS-GLI-03005-100",
+        "id_number":"03005",
+        "Patient's Age":55.0,
+        "Patient's Sex":"F",
+        "Glioma type ":"Glioma NOS"
+    },
+    {
+        "patient_id":"BraTS-GLI-03006",
+        "BraTS Subject ID":"BraTS-GLI-03006-100",
+        "id_number":"03006",
+        "Patient's Age":77.0,
+        "Patient's Sex":"F",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-03007",
+        "BraTS Subject ID":"BraTS-GLI-03007-100",
+        "id_number":"03007",
+        "Patient's Age":75.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-03008",
+        "BraTS Subject ID":"BraTS-GLI-03008-100",
+        "id_number":"03008",
+        "Patient's Age":67.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-03009",
+        "BraTS Subject ID":"BraTS-GLI-03009-100",
+        "id_number":"03009",
+        "Patient's Age":73.0,
+        "Patient's Sex":"F",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-03010",
+        "BraTS Subject ID":"BraTS-GLI-03010-100",
+        "id_number":"03010",
+        "Patient's Age":37.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Glioma NOS"
+    },
+    {
+        "patient_id":"BraTS-GLI-03011",
+        "BraTS Subject ID":"BraTS-GLI-03011-100",
+        "id_number":"03011",
+        "Patient's Age":61.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-03013",
+        "BraTS Subject ID":"BraTS-GLI-03013-100",
+        "id_number":"03013",
+        "Patient's Age":58.0,
+        "Patient's Sex":"F",
+        "Glioma type ":"Glioma NOS"
+    },
+    {
+        "patient_id":"BraTS-GLI-03014",
+        "BraTS Subject ID":"BraTS-GLI-03014-100",
+        "id_number":"03014",
+        "Patient's Age":42.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Astrocytoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-03015",
+        "BraTS Subject ID":"BraTS-GLI-03015-100",
+        "id_number":"03015",
+        "Patient's Age":64.0,
+        "Patient's Sex":"F",
+        "Glioma type ":"Glioma NOS"
+    },
+    {
+        "patient_id":"BraTS-GLI-03017",
+        "BraTS Subject ID":"BraTS-GLI-03017-100",
+        "id_number":"03017",
+        "Patient's Age":38.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-03018",
+        "BraTS Subject ID":"BraTS-GLI-03018-100",
+        "id_number":"03018",
+        "Patient's Age":65.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-03019",
+        "BraTS Subject ID":"BraTS-GLI-03019-100",
+        "id_number":"03019",
+        "Patient's Age":31.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Glioma NOS"
+    },
+    {
+        "patient_id":"BraTS-GLI-03020",
+        "BraTS Subject ID":"BraTS-GLI-03020-100",
+        "id_number":"03020",
+        "Patient's Age":53.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-03021",
+        "BraTS Subject ID":"BraTS-GLI-03021-100",
+        "id_number":"03021",
+        "Patient's Age":64.0,
+        "Patient's Sex":"F",
+        "Glioma type ":"Glioma NOS"
+    },
+    {
+        "patient_id":"BraTS-GLI-03022",
+        "BraTS Subject ID":"BraTS-GLI-03022-100",
+        "id_number":"03022",
+        "Patient's Age":60.0,
+        "Patient's Sex":"F",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-03023",
+        "BraTS Subject ID":"BraTS-GLI-03023-100",
+        "id_number":"03023",
+        "Patient's Age":32.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Astrocytoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-03024",
+        "BraTS Subject ID":"BraTS-GLI-03024-100",
+        "id_number":"03024",
+        "Patient's Age":63.0,
+        "Patient's Sex":"F",
+        "Glioma type ":"Oligodendroglioma"
+    },
+    {
+        "patient_id":"BraTS-GLI-03025",
+        "BraTS Subject ID":"BraTS-GLI-03025-100",
+        "id_number":"03025",
+        "Patient's Age":44.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Astrocytoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-03026",
+        "BraTS Subject ID":"BraTS-GLI-03026-100",
+        "id_number":"03026",
+        "Patient's Age":62.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Glioma NOS"
+    },
+    {
+        "patient_id":"BraTS-GLI-03027",
+        "BraTS Subject ID":"BraTS-GLI-03027-100",
+        "id_number":"03027",
+        "Patient's Age":79.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Glioma NOS"
+    },
+    {
+        "patient_id":"BraTS-GLI-03028",
+        "BraTS Subject ID":"BraTS-GLI-03028-100",
+        "id_number":"03028",
+        "Patient's Age":44.0,
+        "Patient's Sex":"F",
+        "Glioma type ":"Glioma NOS"
+    },
+    {
+        "patient_id":"BraTS-GLI-03029",
+        "BraTS Subject ID":"BraTS-GLI-03029-100",
+        "id_number":"03029",
+        "Patient's Age":43.0,
+        "Patient's Sex":"F",
+        "Glioma type ":"Glioma NOS"
+    },
+    {
+        "patient_id":"BraTS-GLI-03030",
+        "BraTS Subject ID":"BraTS-GLI-03030-100",
+        "id_number":"03030",
+        "Patient's Age":69.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-03031",
+        "BraTS Subject ID":"BraTS-GLI-03031-100",
+        "id_number":"03031",
+        "Patient's Age":33.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Oligodendroglioma"
+    },
+    {
+        "patient_id":"BraTS-GLI-03032",
+        "BraTS Subject ID":"BraTS-GLI-03032-100",
+        "id_number":"03032",
+        "Patient's Age":75.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-03033",
+        "BraTS Subject ID":"BraTS-GLI-03033-100",
+        "id_number":"03033",
+        "Patient's Age":63.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-03037",
+        "BraTS Subject ID":"BraTS-GLI-03037-100",
+        "id_number":"03037",
+        "Patient's Age":48.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-03039",
+        "BraTS Subject ID":"BraTS-GLI-03039-100",
+        "id_number":"03039",
+        "Patient's Age":54.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-03044",
+        "BraTS Subject ID":"BraTS-GLI-03044-100",
+        "id_number":"03044",
+        "Patient's Age":49.0,
+        "Patient's Sex":"F",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-03046",
+        "BraTS Subject ID":"BraTS-GLI-03046-100",
+        "id_number":"03046",
+        "Patient's Age":66.0,
+        "Patient's Sex":"F",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-03047",
+        "BraTS Subject ID":"BraTS-GLI-03047-100",
+        "id_number":"03047",
+        "Patient's Age":67.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-03049",
+        "BraTS Subject ID":"BraTS-GLI-03049-100",
+        "id_number":"03049",
+        "Patient's Age":70.0,
+        "Patient's Sex":"F",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-03050",
+        "BraTS Subject ID":"BraTS-GLI-03050-100",
+        "id_number":"03050",
+        "Patient's Age":49.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-03051",
+        "BraTS Subject ID":"BraTS-GLI-03051-100",
+        "id_number":"03051",
+        "Patient's Age":59.0,
+        "Patient's Sex":"F",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-03052",
+        "BraTS Subject ID":"BraTS-GLI-03052-100",
+        "id_number":"03052",
+        "Patient's Age":52.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-03053",
+        "BraTS Subject ID":"BraTS-GLI-03053-100",
+        "id_number":"03053",
+        "Patient's Age":64.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-03054",
+        "BraTS Subject ID":"BraTS-GLI-03054-100",
+        "id_number":"03054",
+        "Patient's Age":58.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-03055",
+        "BraTS Subject ID":"BraTS-GLI-03055-100",
+        "id_number":"03055",
+        "Patient's Age":57.0,
+        "Patient's Sex":"F",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-03056",
+        "BraTS Subject ID":"BraTS-GLI-03056-100",
+        "id_number":"03056",
+        "Patient's Age":58.0,
+        "Patient's Sex":"F",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-03057",
+        "BraTS Subject ID":"BraTS-GLI-03057-100",
+        "id_number":"03057",
+        "Patient's Age":76.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-03058",
+        "BraTS Subject ID":"BraTS-GLI-03058-100",
+        "id_number":"03058",
+        "Patient's Age":61.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-03059",
+        "BraTS Subject ID":"BraTS-GLI-03059-100",
+        "id_number":"03059",
+        "Patient's Age":56.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-03060",
+        "BraTS Subject ID":"BraTS-GLI-03060-100",
+        "id_number":"03060",
+        "Patient's Age":60.0,
+        "Patient's Sex":"F",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-03061",
+        "BraTS Subject ID":"BraTS-GLI-03061-100",
+        "id_number":"03061",
+        "Patient's Age":24.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-03062",
+        "BraTS Subject ID":"BraTS-GLI-03062-100",
+        "id_number":"03062",
+        "Patient's Age":52.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-03063",
+        "BraTS Subject ID":"BraTS-GLI-03063-100",
+        "id_number":"03063",
+        "Patient's Age":70.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Glioblastoma"
+    },
+    {
+        "patient_id":"BraTS-GLI-03064",
+        "BraTS Subject ID":"BraTS-GLI-03064-100",
+        "id_number":"03064",
+        "Patient's Age":72.0,
+        "Patient's Sex":"M",
+        "Glioma type ":"Glioblastoma"
+    }
+]
