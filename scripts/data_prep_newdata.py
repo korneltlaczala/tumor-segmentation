@@ -32,9 +32,10 @@ def get_modality(file_name):
             return modality
     return None    
 
-def prep_data(data_dir, fraction, input_dir, segmentation_dir, allowed_ids=None):
+def prep_data(data_dir, fraction, input_dir, input_dir2, segmentation_dir, allowed_ids=None):
     os.makedirs(input_dir, exist_ok=True)
     os.makedirs(segmentation_dir, exist_ok=True)
+    os.makedirs(input_dir2, exist_ok=True)
 
     all_patients = [d for d in os.listdir(data_dir) if os.path.isdir(os.path.join(data_dir, d))]
     print(len(all_patients))
@@ -85,14 +86,16 @@ if __name__ == "__main__":
     # prep_data("archive", fraction=0.1)                   # bierzemy losowo 10% pacjentów
     # prep_data("archive", fraction=0.3, seed=123)         # 30% z seedem 123
     
-    ids_path = "brats_data/glioma_ids"
-    data_dir = "brats_data/BraTS2024-Post/training_data1_v2"
-    input_dir = "brats_data/BraTS2024-Post/input"
-    segmentation_dir = "brats_data/BraTS2024-Post/segmentation"
+    ids_path = r"brats_data/glioma_ids"
+    data_dir = r"brats_data/BraTS2024-Post/training_data1_v2"
+    input_dir = r"brats_data/BraTS2024-Post/all_inputs"
+    input_dir2 = r"brats_data/BraTS2024-Post/input"
+    segmentation_dir = r"brats_data/BraTS2024-Post/segmentation"
     ids = load_allowed_ids(ids_path)
     prep_data(data_dir=data_dir,
               fraction=1,
               input_dir=input_dir,
+              input_dir2=input_dir2,
               segmentation_dir=segmentation_dir,
               allowed_ids=ids,
     )

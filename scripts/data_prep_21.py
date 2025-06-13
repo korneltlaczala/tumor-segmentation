@@ -11,7 +11,7 @@ def get_id(fname):
     # Wyciągamy ID z nazwy pliku, np. BraTS2021_00000_flair.nii.gz -> 0
     return int(fname.split("_")[1])
 
-def prep_data(data_dir, input_dir="input", segmentation_dir="segmentation", id_range=None, fraction=None, seed=42):
+def prep_data(data_dir, input_dir="all_inputs", input_dir2="input", segmentation_dir="segmentation", id_range=None, fraction=None, seed=42):
     """
     Kopiuje pliki z data_dir do input_dir i segmentation_dir.
     
@@ -22,7 +22,7 @@ def prep_data(data_dir, input_dir="input", segmentation_dir="segmentation", id_r
     Jeśli podane fraction, to id_range jest ignorowane.
     """
 
-    create_dirs([input_dir, segmentation_dir])
+    create_dirs([input_dir, input_dir2, segmentation_dir])
 
     all_ids = set()
     # Najpierw zbierzemy wszystkie ID
@@ -74,5 +74,5 @@ if __name__ == "__main__":
     # prep_data("archive", fraction=0.1)                   # bierzemy losowo 10% pacjentów
     # prep_data("archive", fraction=0.3, seed=123)         # 30% z seedem 123
 
-    prep_data(data_dir = r"C:\Users\barte\Desktop\studia\SEM6\wb\brats_data\BraTS2024Pre\brats2025-gli-pre-challenge-trainingdata"
-, fraction=0.01, input_dir="BraTS2025Pre\input", segmentation_dir="BraTS2025Pre\segmentation")
+    prep_data(data_dir = r"C:\Users\barte\Desktop\studia\SEM6\wb\brats_data\BraTS2024Pre\brats2025-gli-pre-challenge-trainingdata",
+               fraction=0.01, input_dir=r"BraTS2025Pre\all_inputs", input_dir2=r"BraTS2025Pre\input", segmentation_dir=r"BraTS2025Pre\segmentation")
