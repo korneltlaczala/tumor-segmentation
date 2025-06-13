@@ -84,9 +84,7 @@ if __name__ == "__main__":
     # prep_data("archive", id_range=range(0,4))           # bierzemy 4 pacjentów: 0,1,2,3
     # prep_data("archive", fraction=0.1)                   # bierzemy losowo 10% pacjentów
     # prep_data("archive", fraction=0.3, seed=123)         # 30% z seedem 123
-
-    # prep_data(data_dir = r"C:\Users\barte\Desktop\studia\SEM6\wb\brats_data\BraTS2025Pre\brats2025-gli-pre-challenge-trainingdata",
-    #            fraction=0.01, input_dir="BraTS2025Pre\\input", segmentation_dir="BraTS2025Pre\\segmentation")  # przykładowo 10%
+    
     ids_path = "brats_data/glioma_ids"
     data_dir = "brats_data/BraTS2024-Post/training_data1_v2"
     input_dir = "brats_data/BraTS2024-Post/input"

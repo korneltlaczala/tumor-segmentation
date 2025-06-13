@@ -75,4 +75,4 @@ if __name__ == "__main__":
     # prep_data("archive", fraction=0.3, seed=123)         # 30% z seedem 123
 
     prep_data(data_dir = r"C:\Users\barte\Desktop\studia\SEM6\wb\brats_data\BraTS2024Pre\brats2025-gli-pre-challenge-trainingdata"
-, fraction=0.01, input_dir="BraTS2025Pre\input", segmentation_dir="BraTS2025Pre\segmentation")  # przykładowo 10%
+, fraction=0.01, input_dir="BraTS2025Pre\input", segmentation_dir="BraTS2025Pre\segmentation")
